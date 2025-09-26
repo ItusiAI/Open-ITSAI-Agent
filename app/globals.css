@@ -1,0 +1,157 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%; /* 纯白色背景 */
+    --foreground: 0 0% 24%; /* 深炭灰色文字 #3C3C3C */
+    --card: 0 0% 100%; /* 白色卡片 */
+    --card-foreground: 0 0% 24%; /* 深炭灰色卡片文字 */
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 24%;
+    --primary: 16 100% 66%; /* 珊瑚橙主色 #FF7F50 */
+    --primary-foreground: 0 0% 100%; /* 白色文字 */
+    --secondary: 42 67% 93%; /* 杏色辅助色 #FAEBD7 */
+    --secondary-foreground: 0 0% 24%; /* 深炭灰色文字 */
+    --muted: 42 50% 90%; /* 更浅的杏色 */
+    --muted-foreground: 0 0% 45%; /* 中等灰色 */
+    --accent: 16 100% 75%; /* 浅珊瑚橙 #FF9470 */
+    --accent-foreground: 0 0% 24%; /* 深炭灰色文字 */
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 42 30% 85%; /* 杏色边框 */
+    --input: 42 30% 85%; /* 杏色输入框 */
+    --ring: 16 100% 66%; /* 珊瑚橙焦点环 */
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 0 0% 10%; /* 深色背景 */
+    --foreground: 0 0% 95%; /* 浅色文字 */
+    --card: 0 0% 12%; /* 深色卡片 */
+    --card-foreground: 0 0% 95%; /* 浅色卡片文字 */
+    --popover: 0 0% 12%;
+    --popover-foreground: 0 0% 95%;
+    --primary: 16 100% 66%; /* 珊瑚橙主色保持不变 */
+    --primary-foreground: 0 0% 100%; /* 白色文字 */
+    --secondary: 0 0% 20%; /* 深灰色辅助色 */
+    --secondary-foreground: 0 0% 95%; /* 浅色文字 */
+    --muted: 0 0% 15%; /* 深灰色静音 */
+    --muted-foreground: 0 0% 65%; /* 中等浅色 */
+    --accent: 16 100% 75%; /* 浅珊瑚橙强调色 */
+    --accent-foreground: 0 0% 10%; /* 深色文字 */
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 0 0% 20%; /* 深灰色边框 */
+    --input: 0 0% 20%; /* 深灰色输入框 */
+    --ring: 16 100% 66%; /* 珊瑚橙焦点环 */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* 确保暗色模式过渡效果 */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* 品牌纯色样式 - 珊瑚橙主题配色 */
+.brand-bg {
+  background-color: #FF7F50; /* 珊瑚橙背景 */
+}
+
+.brand-text {
+  color: #FF7F50; /* 珊瑚橙文字 */
+}
+
+.brand-bg-subtle {
+  background-color: #FAEBD7; /* 杏色背景 */
+}
+
+.brand-text-dark {
+  color: #3C3C3C; /* 深炭灰色文字 */
+}
+
+/* 现代化的阴影效果 - 深炭灰色 */
+.brand-shadow {
+  box-shadow: 0 4px 16px -2px rgba(60, 60, 60, 0.1), 0 2px 8px -2px rgba(60, 60, 60, 0.06);
+}
+
+.brand-shadow-lg {
+  box-shadow: 0 12px 32px -6px rgba(60, 60, 60, 0.15), 0 6px 16px -4px rgba(60, 60, 60, 0.1);
+}
+
+/* 珊瑚橙强调阴影 */
+.accent-shadow {
+  box-shadow: 0 8px 24px -4px rgba(255, 127, 80, 0.2), 0 4px 12px -2px rgba(255, 127, 80, 0.1);
+}
+
+/* 文本截断工具类 */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* 自定义滚动条样式 */
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(209 213 219) rgb(243 244 246);
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgb(243 244 246);
+  border-radius: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgb(209 213 219);
+  border-radius: 3px;
+  transition: background-color 0.2s ease;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgb(156 163 175);
+}
+
+/* 暗色模式滚动条 */
+.dark .custom-scrollbar {
+  scrollbar-color: rgb(75 85 99) rgb(55 65 81);
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-track {
+  background: rgb(55 65 81);
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgb(75 85 99);
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgb(107 114 128);
+}

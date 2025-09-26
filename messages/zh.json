@@ -1,0 +1,1182 @@
+{
+  "metadata": {
+    "title": "ITSAI Agent - 新一代声音AI智能体平台，重新定义声音创作体验",
+    "description": "ITSAI Agent集成前沿AI技术的声音智能体生态，提供音频识别、智能总结、声音生成、AI播客等专业服务。从声音理解到内容创作，一站式解决您的声音AI需求。",
+    "terms": {
+      "title": "服务条款 - ITSAI Agent",
+      "description": "查看ITSAI Agent声音AI智能体服务的使用条款，了解音频识别、声音生成等服务的使用规则、用户权利和责任。"
+    },
+    "privacy": {
+      "title": "隐私政策 - ITSAI Agent",
+      "description": "了解ITSAI Agent如何收集、使用和保护您的音频数据和个人信息，保障您的隐私权益。"
+    },
+    "cookies": {
+      "title": "Cookie政策 - ITSAI Agent",
+      "description": "了解ITSAI Agent如何使用Cookie和相关技术来优化声音AI智能体服务体验。"
+    }
+  },
+  "navbar": {
+    "home": "首页",
+    "features": "功能展示",
+    "agents": "AI智能体",
+    "pricing": "价格方案",
+    "blog": "博客",
+    "signUp": "立即注册",
+    "signIn": "登录",
+    "profile": "个人中心",
+    "accountSettings": "账户设置",
+    "signOut": "退出登录"
+  },
+  "hero": {
+    "title": "新一代声音AI智能体平台\n重新定义声音创作体验",
+    "description": "集成前沿AI技术的声音智能体生态，提供音频识别、智能总结、声音生成、AI播客等专业服务。从声音理解到内容创作，一站式解决您的声音AI需求。",
+    "subscribe": {
+      "title": "声音AI革命即将开启",
+      "subtitle": "🎯 抢先体验未来声音科技",
+      "description": "我们正在打造下一代声音AI智能体生态，加入先锋用户行列，解锁专属权益与优先体验资格",
+      "placeholder": "输入邮箱，开启声音AI之旅",
+      "button": "立即加入先锋队列",
+      "button_loading": "预约中...",
+      "button_success": "预约成功",
+      "success": "欢迎加入先锋队列！我们将第一时间为您开启声音AI体验",
+      "error": "预约失败，请稍后重试",
+      "invalid_email": "请输入有效的邮箱地址",
+      "coming_soon": "即将上线",
+      "early_access": "抢先体验",
+      "development_notice": "💡 产品正在紧锣密鼓开发中，预计很快与大家见面！"
+    },
+    "badge": "🚀 引领声音AI新时代",
+    "features": {
+      "readyToUse": "开箱即用",
+      "multiScenario": "全场景声音AI",
+      "professionalOutput": "智能理解与创作"
+    }
+  },
+  "agents": {
+    "title": "为不同场景量身定制的AI智能体服务",
+    "contentSummaryAgent": {
+      "title": "音频内容总结智能体",
+      "description": "自动识别带有时间戳的音频内容，基于推理大模型生成结构化总结，快速提取核心要点和关键信息。"
+    },
+    "podcastAgent": {
+      "title": "AI访谈播客智能体",
+      "description": "专业的访谈播客制作智能体，基于输入内容生成主持人与嘉宾的对话访谈，配备智能声音匹配和真人级语音合成，助您轻松制作高质量访谈播客节目。"
+    },
+    "voiceAgent": {
+      "title": "AI配音智能体",
+      "description": "智能配音服务，输入文本即可生成媲美真人的专业配音。多种声音选择，情感丰富，完美适配各类内容。"
+    },
+    "videoAgent": {
+      "title": "AI视频智能体",
+      "description": "一站式视频制作智能体，从剧本到成片全自动化。结合AI生成的内容、配音和素材，快速产出专业短视频。"
+    },
+    "learnMore": "了解更多"
+  },
+  "features": {
+    "title": "专业声音AI智能体，从理解到创作的完整解决方案",
+    "liveGeneration": "实时处理",
+    "aiAgent": "声音AI智能体",
+    "audioRecognitionAgent": {
+      "title": "音频识别智能体",
+      "description": "企业级语音识别服务，支持中文普通话+英语+27种方言混合识别，以及全球近100个国家语言。提供精确到秒的时间戳和说话人分离。"
+    },
+    "contentSummaryAgent": {
+      "title": "音频总结智能体",
+      "description": "基于先进AI推理技术，深度理解音频内容，自动生成结构化总结。支持会议记录、访谈整理、播客分析，让长音频内容秒变精华摘要。"
+    },
+    "voiceGenerationAgent": {
+      "title": "声音生成智能体",
+      "description": "高质量AI语音合成服务，支持多种音色和情感表达。从文本到自然流畅的语音，为广告配音、有声读物、教育内容提供专业级声音创作。"
+    },
+    "podcastAgent": {
+      "title": "AI访谈播客智能体",
+      "description": "一站式访谈播客制作服务，基于输入内容生成主持人与嘉宾的对话访谈，智能匹配声音特征，支持多样化语音合成，轻松制作专业访谈播客内容。"
+    }
+  },
+  "pricing": {
+    "title": "选择适合您的声音AI服务方案",
+    "recommended": "推荐",
+    "free": {
+      "name": "体验版",
+      "price": "$0",
+      "description": "适合个人用户体验声音AI服务",
+      "features": {
+        "agents": "全部声音AI智能体使用权限",
+        "generations": "赠送100积分",
+        "support": "社区技术支持"
+      },
+      "cta": "免费体验"
+    },
+    "pro": {
+      "name": "专业版",
+      "price": "$9.99/月",
+      "originalPrice": "$15.00",
+      "discountPercent": "33",
+      "savings": "$5.01",
+      "discountBadge": "限时33%折扣",
+      "description": "适合音频创作者和内容团队",
+      "features": {
+        "agents": "全部声音AI智能体使用权限",
+        "generations": "赠送10000积分",
+        "support": "专属客服支持"
+      },
+      "cta": "立即升级"
+    },
+    "discount": {
+      "was": "原价",
+      "now": "现价",
+      "save": "立省",
+      "off": "折扣"
+    },
+    "enterprise": {
+      "name": "企业版",
+      "price": "联系我们",
+      "description": "适合大型企业和音频处理需求",
+      "features": {
+        "agents": "专属声音AI智能体定制开发",
+        "custom": "私有化部署服务",
+        "support": "7×24小时技术支持",
+        "isolation": "企业级音频数据安全"
+      },
+      "cta": "咨询方案"
+    }
+  },
+  "faq": {
+    "title": "关于声音AI智能体服务的常见问题",
+    "categories": {
+      "usage": "使用相关",
+      "pricing": "价格方案"
+    },
+    "usage": {
+      "howToStart": {
+        "question": "如何开始使用声音AI智能体服务？",
+        "answer": "非常简单！注册账户后，选择您需要的声音AI智能体类型（音频识别、音频总结、声音生成或AI播客），上传音频文件或输入文本需求，智能体就会自动为您处理并生成专业级的结果。整个过程无需任何技术背景，即开即用。"
+      },
+      "voiceQuality": {
+        "question": "AI智能体生成的内容质量如何？",
+        "answer": "我们的AI智能体采用最新的深度学习模型，在各自专业领域表现卓越。语音合成接近真人水平，视频制作符合专业标准，播客内容逻辑清晰。所有智能体都经过大量训练和优化。"
+      },
+      "contentOwnership": {
+        "question": "通过智能体生成的内容版权归谁？",
+        "answer": "所有通过ITSAI智能体生成的内容版权完全归您所有。您可以自由使用、修改、分发和商业化这些内容，无需支付额外费用或版税。"
+      },
+      "dataPrivacy": {
+        "question": "使用声音AI智能体服务时我的音频数据安全吗？",
+        "answer": "我们严格遵守数据保护法规，采用企业级加密技术。您的音频文件仅用于AI处理，处理完成后根据您的设置自动删除或加密存储。我们绝不会将您的音频数据用于其他目的或模型训练。"
+      }
+    },
+    "pricing": {
+      "pointsExpiry": {
+        "question": "积分有效期是多久？",
+        "answer": "订阅赠送的积分跟随订阅到期清零，购买的积分永久有效。这样设计是为了确保付费用户的权益得到保障，同时鼓励持续订阅以享受更多服务。"
+      },
+      "upgradeAnytime": {
+        "question": "我可以随时升级声音AI智能体服务方案吗？",
+        "answer": "当然可以！您可以随时升级到更高版本的声音AI智能体服务。升级立即生效，未使用的积分会累积到下个计费周期，确保您的投资不会浪费。"
+      },
+      "enterpriseFeatures": {
+        "question": "企业版声音AI智能体服务包括哪些特殊功能？",
+        "answer": "企业版提供专属声音AI智能体定制开发、私有化部署、企业级音频数据安全保障、7×24小时技术支持，以及专属客户成功经理服务。完全根据您的音频处理业务需求量身打造解决方案。"
+      }
+    }
+  },
+  "blog": {
+    "title": "探索AI智能体的无限可能",
+    "post1": {
+      "title": "5分钟上手：如何使用AI配音智能体制作专业配音",
+      "excerpt": "详细教程带您快速掌握AI配音智能体的使用方法，从文本输入到专业配音输出的完整流程，让您的内容更具吸引力。"
+    },
+    "post2": {
+      "title": "AI智能体如何革命性改变内容创作行业",
+      "excerpt": "深度分析AI智能体在内容创作领域的应用前景，以及如何通过智能体服务实现创作效率的指数级提升。"
+    },
+    "post3": {
+      "title": "成功案例：某知名MCN如何通过AI智能体提升内容产出300%",
+      "excerpt": "真实案例分享：了解专业内容团队如何通过ITSAI智能体服务实现规模化内容生产，大幅提升创作效率和内容质量。"
+    },
+    "readMore": "阅读全文"
+  },
+  "audioSummary": {
+    "title": "音频总结智能体 - ITSAI Agent",
+    "description": "专业音频总结AI智能体，基于先进推理引擎深度理解音频内容，自动生成结构化总结。支持全球近100个国家语言和27种中文方言识别，让长音频内容秒变精华摘要。",
+    "badge": "🎵 智能音频内容分析",
+    "languageSelection": {
+      "label": "版本选择",
+      "chineseVersion": "中文版",
+      "globalVersion": "全球版",
+      "comingSoon": "即将上线",
+      "chineseRecognition": "中文识别：",
+      "chineseCapability": "支持中文普通话 + 英语 + 多方言混合",
+      "dialectSupport": "支持27种方言：",
+      "dialectList": "上海话、四川话、武汉话、贵阳话、昆明话、西安话、郑州话、太原话、兰州话、银川话、西宁话、南京话、合肥话、南昌话、长沙话、苏州话、杭州话、济南话、天津话、石家庄话、黑龙江话、吉林话、辽宁话、闽南语、客家话、粤语、南宁话",
+      "globalVersionDescription": "全球化版本：",
+      "globalRecognition": "全球版识别：",
+      "globalCapability": "支持全球近百种主流语言",
+      "globalDescription": "支持英语，法语，德语，西班牙语，意大利语，葡萄牙语，日语，韩语，俄语，阿拉伯语，越南语，印尼语，马来语，泰语，柬埔寨语，缅甸语，菲律宾语，希腊语，土耳其语，波兰语，匈牙利语，罗马尼亚语，瑞典语，挪威语等近100个主流国家语言",
+      "chineseBilling": "计费方式：按分钟计费，30积分/分钟",
+      "globalBilling": "计费方式：按分钟计费，42积分/分钟",
+      "chineseSupport": "支持语言：中文普通话 + 英语 + 27种方言混合（上海话、四川话、武汉话、贵阳话、昆明话、西安话、郑州话、太原话、兰州话、银川话、西宁话、南京话、合肥话、南昌话、长沙话、苏州话、杭州话、济南话、天津话、石家庄话、黑龙江话、吉林话、辽宁话、闽南语、客家话、粤语、南宁话）",
+      "globalSupport": "支持语言：英语，法语，德语，西班牙语，意大利语，葡萄牙语，日语，韩语，俄语，阿拉伯语，越南语，印尼语，马来语，泰语，柬埔寨语，缅甸语，菲律宾语，希腊语，土耳其语，波兰语，匈牙利语，罗马尼亚语，瑞典语，挪威语等近100个国家语言"
+    },
+    "errors": {
+      "chineseOnly": "当前仅支持中文语音识别",
+      "selectAudioFile": "请选择音频文件或输入音频URL",
+      "uploadFailed": "文件上传失败",
+      "processingError": "处理错误",
+      "processingFailed": "处理失败，请重试",
+      "loginRequired": "需要登录",
+      "loginRequiredDescription": "请先登录后再使用音频处理功能",
+      "insufficientPoints": "积分不足，无法完成音频总结",
+      "audioReadError": "无法读取音频文件，请确保文件格式正确",
+      "recognitionFailed": "语音识别失败",
+      "summaryFailed": "AI推理总结生成失败",
+      "pointsDeductionFailed": "积分扣除失败",
+      "pointsDeductionFailedDescription": "积分扣除失败，但总结已完成。请联系客服处理。",
+      "fetchUserPointsFailed": "获取用户积分失败",
+      "cannotReadAudioFile": "无法读取音频文件",
+      "cannotReadAudioUrl": "无法读取音频URL",
+      "cannotReadAudioUrlDuration": "无法读取音频URL时长",
+      "globalFileSizeLimit": "全球版文件大小不能超过{size}MB",
+      "globalFileFormatLimit": "全球版仅支持以下格式：{formats}"
+    },
+    "input": {
+      "title": "音频输入",
+      "uploadTab": "上传文件",
+      "urlTab": "音频链接",
+      "uploadTitle": "点击上传音频文件",
+      "uploadDescription": "支持音频格式：wav、mp3、m4a、flv、mp4、wma、3gp、amr、aac、ogg-opus、flac，最大1G",
+      "uploadDescriptionGlobal": "支持格式：mp3、mp4、mpeg、mpga、m4a、wav、webm，最大25MB",
+      "urlLabel": "音频链接地址",
+      "urlPlaceholder": "请输入音频文件的URL地址",
+      "urlDescription": "音频 URL 时长不能大于5小时，文件大小不超过1GB",
+      "startButton": "开始智能识别与总结",
+      "recognizingButton": "正在识别音频内容...",
+      "summarizingButton": "正在生成智能总结..."
+    },
+    "timestamp": {
+      "title": "时间戳内容",
+      "recognizing": "正在识别音频内容...",
+      "recognizingDescription": "预计需要 2-3 分钟，请耐心等待",
+      "complete": "识别完成",
+      "copy": "复制",
+      "download": "下载",
+      "copySuccess": "复制成功",
+      "copySuccessDescription": "时间戳内容已复制到剪贴板",
+      "copyError": "复制失败",
+      "copyErrorDescription": "无法复制到剪贴板，请手动选择复制",
+      "downloadSuccess": "下载成功",
+      "downloadSuccessDescription": "时间戳内容已保存为文本文件",
+      "downloadError": "下载失败",
+      "downloadErrorDescription": "无法下载文件，请稍后重试",
+      "sampleContent1": "欢迎来到ITSAI Agent音频内容总结服务。今天我们将为您演示如何使用AI技术进行音频内容的智能分析和总结。",
+      "sampleContent2": "我们的系统采用了先进的语音识别技术，能够准确识别多种语言和方言，包括中文普通话和各地方言。",
+      "sampleContent3": "通过深度学习模型的分析，系统能够理解音频内容的语义，并生成结构化的总结报告。"
+    },
+    "summary": {
+      "title": "总结结果",
+      "summarizing": "正在生成智能总结...",
+      "summarizingDescription": "预计需要 1-2 分钟，AI正在深度分析内容",
+      "complete": "总结完成",
+      "copy": "复制",
+      "download": "下载",
+      "copySuccess": "复制成功",
+      "copySuccessDescription": "总结内容已复制到剪贴板",
+      "copyError": "复制失败",
+      "copyErrorDescription": "无法复制到剪贴板，请手动选择复制",
+      "downloadSuccess": "下载成功",
+      "downloadSuccessDescription": "总结内容已保存为文本文件",
+      "downloadError": "下载失败",
+      "downloadErrorDescription": "无法下载文件，请稍后重试",
+      "sampleTitle": "# 音频内容总结\n\n## 主要内容概述\n本段音频讨论了人工智能在内容创作领域的应用和发展趋势。\n\n## 关键要点\n1. **[00:00-02:30]** AI技术在音频处理方面的突破\n2. **[02:30-05:15]** 语音识别准确率的显著提升\n3. **[05:15-08:00]** 内容总结算法的优化改进\n4. **[08:00-10:45]** 未来发展方向和应用场景\n\n## 核心观点\n- AI音频处理技术已达到商用水平\n- 时间戳识别准确率超过95%\n- 多语言支持能力不断增强\n- 结构化总结质量持续优化\n\n## 总结\n该音频内容全面介绍了AI音频处理技术的现状和未来发展方向，为相关从业者提供了宝贵的参考信息。"
+    },
+    "features": {
+      "title": "强大的AI音频分析能力",
+      "timestampTitle": "时间戳识别",
+      "timestampDescription": "精确识别音频中的时间节点，生成带时间戳的结构化内容",
+      "reasoningTitle": "推理模型分析",
+      "reasoningDescription": "基于先进的推理大模型，深度理解音频内容语义",
+      "structuredTitle": "结构化总结",
+      "structuredDescription": "自动生成层次清晰的总结，包含要点提取和核心观点"
+    },
+    "billing": {
+      "currentPoints": "当前积分：",
+      "thisConsumption": "本次消费：",
+      "points": "积分",
+      "minutes": "分钟",
+      "pointsPerMinute": "积分/分钟",
+      "insufficientPoints": "积分不足",
+      "insufficientPointsMessage": "您的当前积分不足以完成此次音频总结服务。",
+      "requiredPoints": "所需积分：",
+      "needToRecharge": "还需充值：",
+      "goRecharge": "去充值",
+      "audioSummaryService": "音频总结服务 - {minutes}分钟",
+      "chineseVersionService": "音频总结服务(中文版) - {minutes}分钟",
+      "pointsDeducted": "积分扣除成功",
+      "pointsDeductedDescription": "已扣除 {points} 积分，剩余 {remaining} 积分",
+      "globalVersionService": "音频总结服务(全球版) - {minutes}分钟"
+    },
+    "auth": {
+      "loginRequiredMessage": "请先登录后再使用音频总结功能。",
+      "loginNow": "立即登录"
+    },
+    "common": {
+      "cancel": "取消",
+      "back": "返回",
+      "login": "立即登录"
+    },
+    "processing": {
+      "started": "开始处理",
+      "startedDescription": "音频处理已开始，完成后将自动保存到您的记录中",
+      "thinking": "正在思考中...",
+      "thinkingDescription": "AI正在识别您的音频内容，请稍候",
+      "recognitionComplete": "识别内容",
+      "analyzing": "正在分析总结中...",
+      "analyzingDescription": "AI正在深度分析内容并生成总结"
+    },
+    "storage": {
+      "saved": "记录已保存",
+      "savedDescription": "您的音频处理记录已安全保存到本地",
+      "saveFailed": "保存失败",
+      "saveFailedDescription": "记录保存失败，请检查浏览器存储空间"
+    }
+  },
+  "footer": {
+    "description": "专业声音AI智能体服务商，从音频识别到声音创作，让人工智能为您的声音场景赋能。",
+    "services": {
+      "title": "服务",
+      "features": "功能展示",
+      "pricing": "价格方案",
+      "blog": "博客"
+    },
+    "product": {
+      "title": "声音AI智能体服务",
+      "agents": "声音AI智能体类型",
+      "features": "功能特性",
+      "pricing": "服务方案"
+    },
+    "company": {
+      "title": "公司",
+      "about": "关于我们",
+      "careers": "加入我们",
+      "blog": "博客"
+    },
+    "newsletter": {
+      "title": "订阅资讯",
+      "description": "获取最新的AI智能体技术动态和产品更新",
+      "placeholder": "请输入您的邮箱地址",
+      "subscribe_button": "订阅",
+      "success": "订阅成功！",
+      "subscribe": {
+        "successMessage": "订阅成功！感谢您的订阅，我们会定期向您发送最新资讯。",
+        "subscribeError": "订阅失败，请稍后重试",
+        "networkError": "网络错误，请稍后重试"
+      },
+      "unsubscribe": {
+        "title": "取消订阅邮件列表",
+        "description": "我们很遗憾看到您离开，但我们尊重您的选择",
+        "emailLabel": "邮箱地址",
+        "emailPlaceholder": "请输入您的邮箱地址",
+        "button": "取消订阅",
+        "processing": "处理中...",
+        "loadingText": "正在处理...",
+        "successMessage": "如果您改变主意，随时可以重新订阅我们的邮件列表。",
+        "backToHome": "返回首页",
+        "networkError": "网络错误，请稍后重试",
+        "unsubscribeError": "取消订阅失败"
+      }
+    },
+    "copyright": "ITSAI Agent. 版权所有."
+  },
+  "verify": {
+    "title": "邮箱验证",
+    "description": "验证您的邮箱地址以完成账户注册",
+    "meta_title": "邮箱验证",
+    "meta_description": "验证您的 ITSAI Agent 账户邮箱，完成账户激活",
+    "verifying": "正在验证您的邮箱...",
+    "success": "邮箱验证成功！",
+    "failed": "邮箱验证失败",
+    "token_missing": "验证令牌缺失",
+    "failed_retry": "验证失败，请稍后重试",
+    "please_wait": "请稍候，正在验证您的邮箱地址...",
+    "login_now": "立即登录",
+    "register_again": "重新注册",
+    "or": "或者",
+    "back_to_login": "返回登录"
+  },
+  "auth": {
+    "signin_title": "登录",
+    "signin_description": "登录您的 ITSAI Agent 账户，开始使用声音AI智能体服务",
+    "signup_title": "注册",
+    "signup_description": "注册 ITSAI Agent 账户，开启声音AI智能体之旅",
+    "error_title": "认证错误",
+    "error_description": "认证过程中遇到问题，请重试或联系技术支持",
+    "error_page_title": "登录失败",
+    "error_page_description": "认证过程中遇到问题",
+    "error_back_to_signin": "返回登录",
+    "error_back_to_home": "返回首页",
+    "error_contact_support": "如果问题持续存在，请联系",
+    "error_technical_support": "技术支持",
+    "errors": {
+      "Configuration": "服务器配置错误，请联系管理员",
+      "AccessDenied": "访问被拒绝，您可能没有权限访问此应用",
+      "Verification": "验证失败，请重试",
+      "OAuthSignin": "第三方登录失败，请重试",
+      "OAuthCallback": "第三方登录回调失败",
+      "OAuthCreateAccount": "无法创建账户，该邮箱可能已被使用",
+      "EmailCreateAccount": "无法创建账户，请检查邮箱地址",
+      "Callback": "回调错误，请重试",
+      "OAuthAccountNotLinked": "该第三方账户未与现有账户关联，请使用其他登录方式",
+      "EmailSignin": "邮箱登录失败，请检查邮箱地址",
+      "CredentialsSignin": "登录凭据无效，请检查邮箱和密码",
+      "SessionRequired": "需要登录才能访问此页面",
+      "OAuthTokenError": "获取授权令牌失败，请重新尝试登录",
+      "OAuthUserInfoError": "获取用户信息失败，请检查授权权限",
+      "default": "认证过程中发生未知错误，请重试"
+    },
+    "welcome_back": "欢迎回来",
+    "login_description": "登录您的 ITSAI Agent 声音AI智能体账户",
+    "email": "邮箱地址",
+    "password": "密码",
+    "email_placeholder": "请输入您的邮箱",
+    "password_placeholder": "请输入您的密码",
+    "login": "登录",
+    "logging_in": "登录中...",
+    "login_error": "邮箱或密码错误",
+    "login_failed": "登录失败，请稍后重试",
+    "no_account": "还没有账户？",
+    "signup_now": "立即注册",
+    "forgot_password": "忘记密码？",
+    "create_account": "创建账户",
+    "name": "用户名",
+    "name_placeholder": "请输入您的用户名",
+    "password_signup_placeholder": "请输入密码（至少6个字符）",
+    "confirm_password": "确认密码",
+    "confirm_password_placeholder": "请再次输入密码",
+    "password_mismatch": "两次输入的密码不一致",
+    "password_too_short": "密码至少需要6个字符",
+    "register_failed": "注册失败",
+    "register_retry": "注册失败，请稍后重试",
+    "registering": "注册中...",
+    "register_success": "注册成功",
+    "has_account": "已有账户？",
+    "login_now": "立即登录",
+    "terms_agreement": "注册即表示您同意我们的",
+    "terms_of_service": "服务条款",
+    "and": "和",
+    "privacy_policy": "隐私政策",
+    "loginRequiredMessage": "请先登录后再使用音频总结功能。",
+    "loginNow": "立即登录"
+  },
+  "common": {
+    "cancel": "取消",
+    "confirm": "确认",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "close": "关闭",
+    "back": "返回",
+    "login": "立即登录"
+  },
+  "forgot_password": {
+    "title": "找回密码",
+    "description": "输入您的邮箱地址，我们将向您发送重置密码的链接",
+    "meta_title": "找回密码",
+    "meta_description": "找回您的 ITSAI Agent 账户密码，通过邮箱重置密码",
+    "email_label": "邮箱地址",
+    "email_placeholder": "请输入您的邮箱地址",
+    "send_reset_link": "发送重置链接",
+    "sending": "发送中...",
+    "success_message": "重置密码链接已发送到您的邮箱",
+    "check_email": "请检查您的邮箱并点击链接重置密码",
+    "back_to_login": "返回登录",
+    "email_required": "请输入邮箱地址",
+    "email_invalid": "请输入有效的邮箱地址",
+    "send_failed": "发送失败，请稍后重试",
+    "user_not_found": "该邮箱地址未注册",
+    "rate_limit": "请求过于频繁，请稍后再试"
+  },
+  "reset_password": {
+    "title": "重置密码",
+    "description": "请输入您的新密码",
+    "meta_title": "重置密码",
+    "meta_description": "重置您的 ITSAI Agent 账户密码，设置新的安全密码",
+    "password_label": "新密码",
+    "password_placeholder": "请输入新密码",
+    "confirm_password_label": "确认密码",
+    "confirm_password_placeholder": "请再次输入新密码",
+    "reset_password": "重置密码",
+    "resetting": "重置中...",
+    "success_message": "密码重置成功！",
+    "login_now": "立即登录",
+    "password_required": "请输入密码",
+    "password_min_length": "密码至少需要6个字符",
+    "password_mismatch": "两次输入的密码不一致",
+    "token_invalid": "重置链接无效或已过期",
+    "token_expired": "重置链接已过期，请重新申请",
+    "reset_failed": "重置失败，请稍后重试",
+    "back_to_forgot": "返回找回密码"
+  },
+  "profile": {
+    "title": "个人中心",
+    "description": "查看和管理您的账户信息",
+    "menu": "功能菜单",
+    "please_login": "请先登录后查看个人中心",
+    "login_required": "请先登录",
+    "no_name_set": "未设置用户名",
+    "not_set": "未设置",
+    "verified": "已验证",
+    "loading": "加载中...",
+    "points": "积分",
+    "points_history": "积分记录",
+    "points_history_description": "查看您的积分获得和使用记录",
+    "no_points_history": "暂无积分记录",
+    "register_bonus": "注册奖励",
+    "email_verify_bonus": "邮箱验证奖励",
+    "daily_login_bonus": "每日签到奖励",
+    "referral_bonus": "推荐好友奖励",
+    "manual_operation": "管理员操作",
+    "points_operation": "积分操作",
+    "pagination": {
+      "page_info": "第 {current} 页，共 {total} 页",
+      "total_records": "共 {total} 条记录",
+      "previous": "上一页",
+      "next": "下一页"
+    },
+    "points_actions": {
+      "register": "注册奖励",
+      "email_verify": "邮箱验证奖励",
+      "daily_login": "每日签到奖励",
+      "referral": "推荐好友奖励",
+      "manual": "管理员操作",
+      "purchase": "购买积分",
+      "subscription_gift": "订阅专业版赠送积分",
+      "subscription_renewal_gift": "续订专业版赠送积分（时间累加30天）",
+      "subscription_expired": "订阅过期扣除积分",
+      "interview_generation": "访谈播客生成服务",
+      "interview_generation_with_characters": "访谈播客生成服务 - {characters}字符",
+      "unknown": "未知操作",
+      "pay_amount": "支付 {amount}"
+    },
+    "account_info": "账户信息",
+    "registration_date": "注册时间",
+    "last_login": "最后登录",
+    "account_status": "账户状态",
+    "email_verified": "邮箱已验证",
+    "account_secure": "账户安全",
+    "profile_complete": "资料完整",
+    "personal_info": "个人信息",
+    "account_settings": "账户设置",
+    "connected_accounts": "关联账户",
+    "security": "安全设置",
+    "name": "用户名",
+    "name_placeholder": "请输入您的用户名",
+    "email": "邮箱地址",
+    "email_unverified": "未验证",
+    "verify_email": "验证邮箱",
+    "avatar": "头像",
+    "change_avatar": "更换头像",
+    "current_password": "当前密码",
+    "current_password_placeholder": "请输入当前密码",
+    "new_password": "新密码",
+    "new_password_placeholder": "请输入新密码",
+    "confirm_new_password": "确认新密码",
+    "confirm_new_password_placeholder": "请再次输入新密码",
+    "change_password": "修改密码",
+    "save_changes": "保存更改",
+    "saving": "保存中...",
+    "saved": "已保存",
+    "cancel": "取消",
+    "connect": "绑定",
+    "connecting": "连接中...",
+    "disconnect": "解绑",
+    "connected": "已绑定",
+    "not_connected": "未绑定",
+    "github_account": "GitHub账户",
+    "google_account": "Google账户",
+    "delete_account": "删除账户",
+    "delete_account_warning": "删除账户将永久删除您的所有数据，此操作不可恢复！",
+    "delete_account_confirm": "我确认要删除我的账户",
+    "delete_account_button": "永久删除账户",
+    "member_since": "注册时间",
+    "success_message": "更新成功！",
+    "error_message": "更新失败，请稍后重试",
+    "password_changed": "密码修改成功！",
+    "password_change_failed": "密码修改失败",
+    "account_connected": "账户绑定成功！",
+    "account_disconnected": "账户解绑成功！",
+    "account_connection_failed": "账户绑定失败",
+    "email_verification_sent": "验证邮件已发送",
+    "name_required": "请输入用户名",
+    "current_password_required": "请输入当前密码",
+    "new_password_required": "请输入新密码",
+    "password_min_length": "密码至少需要6个字符",
+    "password_mismatch": "两次输入的密码不一致",
+    "current_password_incorrect": "当前密码不正确",
+    "subscription_info": "订阅信息",
+    "subscription_info_description": "查看和管理您的订阅计划",
+    "subscription_status": "订阅状态",
+    "subscription_active": "已激活",
+    "subscription_cancelled": "已取消",
+    "subscription_past_due": "逾期未付",
+    "subscription_free": "免费用户",
+    "subscription_expires": "到期时间",
+    "subscription_expiring_soon": "即将到期",
+    "subscription_expired": "已过期",
+    "plan_free": "免费计划",
+    "plan_pro": "专业版",
+    "plan_enterprise": "企业版",
+    "plan_free_description": "基础功能，适合个人用户",
+    "plan_pro_description": "完整功能，适合专业用户",
+    "plan_enterprise_description": "定制服务，适合企业用户",
+    "manage_subscription": "管理订阅",
+    "upgrade_to_pro": "升级到专业版",
+    "upgrade_benefits_title": "升级获得更多功能",
+    "upgrade_benefits_1": "无限制使用所有AI智能体",
+    "upgrade_benefits_2": "优先客服支持",
+    "upgrade_benefits_3": "高级数据分析",
+    "upgrade_benefits_4": "定制化服务",
+    "points_purchase": "积分购买",
+    "points_purchase_description": "购买积分以使用AI智能体服务",
+    "points_package_starter": "入门套餐",
+    "points_package_popular": "热门套餐",
+    "points_package_premium": "高级套餐",
+    "points_usage_title": "积分用途",
+    "points_usage_ai_service": "AI智能体服务调用",
+    "points_usage_premium_features": "高级功能解锁",
+    "points_usage_priority_support": "优先客服支持",
+    "purchase_now": "立即购买",
+    "processing_payment": "处理中...",
+    "payment_success": "支付成功",
+    "payment_failed": "支付失败",
+    "order_details": "订单详情",
+    "complete_payment": "完成支付",
+    "cancel_payment": "取消",
+    "card_info": "银行卡信息",
+    "pay_amount": "支付",
+    "purchase_success": "购买成功！",
+    "points_added": "积分已添加",
+    "current_points": "当前积分",
+    "view_pricing": "查看定价",
+    "purchased_points_label": "购买积分（永不过期）",
+    "gifted_points_label": "赠送积分（订阅到期清零）",
+    "subscription_gift_notice": "您当前订阅专业版，已获得10,000赠送积分",
+    "purchased_points": "购买积分",
+    "purchased_points_description": "通过支付购买的积分，永不过期，可长期使用",
+    "gifted_points": "赠送积分",
+    "gifted_points_description": "订阅专业版赠送的积分，订阅到期时将被清零",
+    "usage_priority": "使用优先级",
+    "usage_priority_description": "系统会优先使用赠送积分，再使用购买积分",
+    "recommended": "推荐",
+    "processing": "处理中...",
+    "payment_history": "支付记录",
+    "payment_history_description": "查看所有支付记录和交易详情",
+    "payment_history_details": {
+      "title": "支付记录",
+      "stats": {
+        "title": "支付统计",
+        "total_payments": "总支付次数",
+        "total_amount": "总支付金额",
+        "total_points_purchased": "总购买积分",
+        "successful_payments": "成功支付次数"
+      },
+      "payment_types": {
+        "subscription": "订阅",
+        "points_purchase": "积分购买",
+        "other": "其他"
+      },
+      "payment_statuses": {
+        "succeeded": "成功",
+        "failed": "失败",
+        "pending": "处理中",
+        "refunded": "已退款",
+        "cancelled": "已取消"
+      },
+      "table": {
+        "type": "类型",
+        "product": "产品",
+        "amount": "金额",
+        "points": "积分",
+        "status": "状态",
+        "time": "时间"
+      },
+      "filters": {
+        "type_placeholder": "筛选类型",
+        "status_placeholder": "筛选状态",
+        "all_types": "所有类型",
+        "all_statuses": "所有状态"
+      },
+      "empty_state": {
+        "title": "暂无支付记录"
+      },
+      "errors": {
+        "fetch_failed": "获取支付记录失败"
+      }
+    }
+  },
+  "dashboard": {
+    "payment_success": {
+      "title": "订阅成功！",
+      "subtitle": "欢迎加入ITSAI Agent专业版",
+      "processing_title": "处理支付结果",
+      "processing_description": "请稍候，我们正在确认您的订阅状态...",
+      "verifying_title": "验证订阅状态",
+      "verifying_description": "正在确认您的专业版订阅...",
+      "success_toast": "🎉 专业版订阅成功！您已获得10,000赠送积分",
+      "no_session_toast": "💡 您已到达订阅成功页面，请使用下方按钮导航"
+    },
+    "subscription_info": {
+      "title": "专业版订阅",
+      "status_label": "订阅状态：",
+      "status_active": "已激活",
+      "status_processing": "处理中",
+      "plan_label": "订阅计划：",
+      "plan_pro": "专业版",
+      "expires_label": "到期时间："
+    },
+    "points_reward": {
+      "title": "积分奖励",
+      "total_points": "总积分",
+      "purchased_points": "购买积分",
+      "gifted_points": "赠送积分",
+      "gift_notice": "🎁 您已获得 {points} 专业版赠送积分！"
+    },
+    "actions": {
+      "view_profile": "查看个人中心",
+      "back_home": "返回首页"
+    },
+    "loading": "加载中...",
+    "error": {
+      "fetch_failed": "获取订阅信息失败，请刷新页面重试",
+      "manage_subscription_failed": "无法打开订阅管理页面，请稍后重试"
+    }
+  },
+  "legal": {
+    "title": "法律条款",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "cookies": "Cookie政策"
+  },
+  "unauthorized": {
+    "title": "访问被拒绝",
+    "description": "您没有权限访问此页面。此页面仅限管理员访问。",
+    "errorMessage": "如果您认为这是一个错误，请联系系统管理员。",
+    "backToHome": "返回首页",
+    "signInAgain": "重新登录"
+  },
+  "testimonials": {
+    "title": "用户评价",
+    "description": "加入数千名已经在使用 ITSAI Agent 进行音频识别、内容总结、声音生成和播客制作的专业用户"
+  },
+  "blogPage": {
+    "title": "ITSAI Agent 博客",
+    "subtitle": "探索AI智能体的最新动态和技术分享",
+    "contactPost": {
+      "badge": "最新",
+      "date": "2024年12月",
+      "author": "ITSAI Team",
+      "title": "联系我们 - 让我们一起探索AI的无限可能",
+      "description": "我们很高兴与您建立联系！无论您是想了解我们的AI智能体服务，还是有任何技术问题，我们都随时准备为您提供帮助。",
+      "contactMethods": {
+        "title": "🤝 联系方式",
+        "twitter": {
+          "title": "推特 Twitter",
+          "description": "关注我们获取最新动态",
+          "handle": "@itusi2024"
+        },
+        "email": {
+          "title": "邮箱 Email",
+          "description": "商务合作与技术支持",
+          "address": "app@itusi.cn"
+        }
+      },
+      "services": {
+        "title": "🎯 我们能为您做什么？",
+        "podcast": "专业的播客脚本生成和音频制作服务",
+        "voiceover": "高质量的AI语音合成，支持多种声音风格",
+        "video": "从文本到视频的完整制作流程",
+        "support": "7×24小时专业技术支持",
+        "custom": "根据您的需求定制专属AI智能体"
+      },
+      "cta": {
+        "title": "准备开始您的AI之旅了吗？",
+        "startNow": "立即开始",
+        "contactUs": "联系我们"
+      }
+    },
+    "otherPosts": {
+      "title": "声音AI技术分享",
+      "description": "探索声音AI智能体的最新技术动态和深度解析",
+      "post1": {
+        "category": "技术解析",
+        "date": "2025年7月",
+        "title": "音频总结智能体是如何工作的？",
+        "excerpt": "深入了解音频总结智能体的工作原理，从音频识别到内容理解，再到结构化总结生成的完整技术流程。"
+      },
+      "post2": {
+        "category": "产品介绍",
+        "date": "2025年7月",
+        "title": "ITSAI Agent提供哪些声音AI智能体？",
+        "excerpt": "深入了解ITSAI Agent平台提供的四大声音AI智能体类型：音频识别、音频总结、声音生成、AI播客。"
+      },
+      "post3": {
+        "category": "行业洞察",
+        "date": "2025年7月",
+        "title": "什么是AI智能体？",
+        "excerpt": "深入了解AI智能体的定义、工作原理和应用场景。"
+      },
+      "readMore": "阅读更多"
+    }
+  },
+  "agent": {
+    "title": "音频聊天助手",
+    "aiWorkbench": "AI智能体工作台",
+    "chatHistory": "聊天记录",
+    "newSession": "新建会话",
+    "noSessions": "暂无会话记录",
+    "messages": "条消息",
+    "totalSessions": "总会话数",
+    "totalMessages": "总消息数",
+    "chineseVersion": "中文版",
+    "globalVersion": "全球版",
+    "points": "积分",
+    "welcomeTitle": "欢迎使用音频聊天助手",
+    "welcomeDescription": "上传音频文件，我将为您提供智能转录和总结服务",
+    "uploadHint": "请在下方选择版本并上传音频文件开始对话",
+    "uploadedAudio": "已上传音频",
+    "processingAudio": "正在处理音频...",
+    "uploadingAudio": "正在上传音频文件...",
+    "recognizingAudio": "正在进行语音识别...",
+    "generatingSummary": "正在生成AI总结...",
+    "processingComplete": "处理完成",
+    "you": "您",
+    "assistant": "助手",
+    "processing": "处理中",
+    "error": "错误",
+    "summary": "总结",
+    "timestamp": "时间戳",
+    "aiSummary": "AI总结",
+    "timestampContent": "时间戳内容",
+    "copied": "已复制",
+    "uploadAudio": "上传音频",
+    "audioUrlPlaceholder": "输入音频文件URL...",
+    "uploadFile": "上传文件",
+    "audioUrl": "音频链接",
+    "dragDropAudio": "拖拽音频文件到此处",
+    "supportedFormats": "支持 MP3, WAV, M4A, AAC 等格式",
+    "selectFile": "选择文件",
+    "audioUrlTitle": "从URL加载音频",
+    "audioUrlDescription": "输入音频文件的直链地址",
+    "loadUrl": "加载",
+    "noMessages": "暂无消息",
+    "selectVersion": "选择版本",
+    "selectAudioFile": "选择音频文件",
+    "aiAgents": "AI智能体",
+    "audioSummaryAgent": "音频总结智能体",
+    "audioSummaryAgentDesc": "智能音频内容总结与分析",
+    "podcastAiAgent": "AI访谈播客智能体",
+    "podcastAiAgentDesc": "智能访谈播客内容生成与语音合成",
+    "comingSoon": "即将推出",
+    "processingHistory": "处理记录",
+    "noProcessingHistory": "暂无处理记录",
+    "noProcessingHistoryDescription": "上传音频文件开始您的第一次处理",
+    "loadMore": "加载更多",
+    "records": "条",
+    "totalRecords": "总记录",
+    "audioProcessing": "音频处理",
+    "agentComingSoonDescription": "该智能体正在开发中，敬请期待",
+    "pointsPerMinute": "积分/分钟",
+    "chineseVersionDescription": "基于腾讯云ASR + DeepSeek推理，支持中文方言识别",
+    "globalVersionDescription": "基于OpenAI Whisper + Google Gemini，支持100+种语言",
+    "chineseVersionFeatures": "中文方言支持，识别准确度高",
+    "globalVersionFeatures": "多语言支持，全球化覆盖",
+    "audioSummaryWelcome": "音频总结智能体",
+    "audioSummaryDescription": "智能音频内容识别与总结，支持多种语言和格式",
+    "selectVersionHint": "请选择识别版本并上传音频文件开始处理",
+    "selectAgent": "选择智能体",
+    "selectAgentDescription": "请从左侧选择一个智能体开始使用",
+    "errors": {
+      "loginRequired": "请先登录",
+      "loginRequiredDescription": "使用音频总结功能需要先登录账户",
+      "processingFailed": "音频处理失败，请稍后重试"
+    },
+    "interviewPodcast": {
+      "title": "AI访谈播客智能体",
+      "description": "基于输入内容生成主持人与嘉宾的对话访谈，智能语音合成",
+      "badge": "🎙️ 可编辑的访谈播客生成",
+      "inputPlaceholder": "请输入要生成访谈播客的内容...",
+      "generateButton": "生成访谈播客",
+      "generating": "正在生成访谈内容...",
+      "synthesizing": "正在合成语音...",
+      "processing": "处理中...",
+      "downloadAudio": "下载音频",
+      "playAudio": "播放音频",
+      "pauseAudio": "暂停音频",
+      "hostLabel": "主持人",
+      "guestLabel": "嘉宾",
+      "voicePromptGenerated": "声音特征已生成",
+      "audioSynthesized": "语音合成完成",
+      "error": "生成失败，请重试",
+      "podcastRecords": "播客记录",
+      "noPodcastRecords": "暂无播客记录",
+      "noPodcastRecordsDescription": "开始创建您的第一个访谈播客",
+      "totalPodcasts": "播客总数",
+      "errors": {
+        "inputRequired": "请输入要生成访谈播客的内容",
+        "dialogueRequired": "请先生成对话内容",
+        "voicePromptRequired": "请先生成音色prompt",
+        "voiceDesignRequired": "请先设计音色",
+        "generateFailed": "生成访谈内容失败",
+        "voicePromptFailed": "生成音色prompt失败",
+        "voiceDesignFailed": "音色设计失败",
+        "voiceSynthesisFailed": "语音合成失败",
+        "unknownError": "未知错误",
+        "copyFailed": "无法复制到剪贴板",
+        "saveRecordFailed": "保存记录失败",
+        "incompleteAudioData": "音频数据不完整，无法保存记录",
+        "incompleteSegmentAudio": "部分对话段落缺少音频数据，无法保存记录",
+        "storageQuotaExceeded": "存储空间不足",
+        "storageQuotaExceededDesc": "浏览器存储空间已满，请清理其他网站数据或删除旧的播客记录",
+        "noPreGeneratedAudio": "优化方案未返回预生成音频，请检查API配置",
+        "insufficientPoints": "积分不足",
+        "insufficientPointsDesc": "需要{required}积分，当前{current}积分。内容字符数：{characters}"
+      },
+      "success": {
+        "dialogueGenerated": "对话生成成功",
+        "dialogueGeneratedDesc": "请预览对话内容，然后点击生成语音",
+        "podcastGenerated": "访谈播客已生成完成",
+        "copySuccess": "复制成功",
+        "copySuccessDesc": "原始内容已复制到剪贴板",
+        "recordSaved": "记录保存成功",
+        "recordSavedWithAudio": "播客记录和音频数据已永久保存",
+        "cleanupCompleted": "清理完成",
+        "cleanupCompletedDesc": "已保留最新{count}条记录，释放存储空间",
+        "dialogueGeneratedWithBilling": "对话生成成功，已扣除{points}积分，剩余{remaining}积分。字符数：{characters}",
+        "podcastGeneratedWithBilling": "播客生成成功，已扣除{points}积分，剩余{remaining}积分。字符数：{characters}"
+      },
+      "ui": {
+        "analyzing": "正在分析中",
+        "analyzingDesc": "智能分析您的内容，设计主持人与嘉宾角色，生成自然流畅的对话...",
+        "generatingVoiceFeatures": "正在生成音色特征",
+        "generatingVoiceFeaturesDesc": "根据对话内容为每个角色生成专属的声音特征描述...",
+        "designingVoices": "正在设计音色",
+        "designingVoicesDesc": "基于声音特征描述，为每个角色设计专属音色...",
+        "generatingAudio": "正在生成语音",
+        "generatingAudioDesc": "使用设计的音色为每个对话段落生成高质量语音...",
+        "dialoguePreview": "访谈对话预览",
+        "dialoguePreviewDesc": "请预览生成的对话内容，确认无误后生成语音",
+        "dialogueContent": "访谈对话内容",
+        "originalContent": "原始内容",
+        "interviewDialogue": "访谈对话",
+        "completePodcast": "完整播客",
+        "voiceCharacteristics": "声音特征",
+        "copy": "复制",
+        "regenerateDialogue": "重新生成对话",
+        "generateVoice": "生成语音",
+        "processing": "正在处理...",
+        "contentInput": "内容输入",
+        "inputLabel": "输入要生成访谈播客的内容",
+        "inputHint": "请输入包含明确主题和关键信息的内容，内容越详细，生成的访谈对话越丰富",
+        "features": "功能特色",
+        "intelligentDialogue": "智能对话生成",
+        "intelligentDialogueDesc": "运用先进AI技术，智能分析内容主题，自动设计主持人与嘉宾角色，根据内容丰富度生成相应长度的自然对话",
+        "intelligentVoice": "智能语音合成",
+        "intelligentVoiceDesc": "为每个角色智能匹配专属声音特征，合成高质量的真人级语音，呈现专业播客效果",
+        "oneStopProduction": "一站式制作",
+        "oneStopProductionDesc": "从内容分析到音频合成，全流程自动化，一键生成完整的专业访谈播客",
+        "loginRequired": "需要登录",
+        "loginRequiredDesc": "使用AI访谈播客功能需要先登录账户",
+        "loginNow": "立即登录",
+        "segmentCount": "共 {count} 段对话",
+        "browserNotSupported": "您的浏览器不支持音频播放。",
+        "previewMode": "预览模式",
+        "aiAgent": "AI智能体",
+        "editContent": "编辑内容",
+        "editOriginalContent": "编辑原始内容",
+        "editDialogue": "编辑对话",
+        "saveChanges": "保存修改",
+        "cancelEdit": "取消编辑",
+        "editSuccess": "编辑成功",
+        "editSuccessDesc": "内容已成功更新",
+        "editFailed": "编辑失败",
+        "editFailedDesc": "保存失败，请重试",
+        "voiceSettings": "语音设置",
+        "hostVoice": "主持人音色",
+        "guestVoice": "嘉宾音色",
+        "editDialogueContent": "编辑对话内容",
+        "save": "保存",
+        "cancel": "取消",
+        "back": "返回",
+        "podcastRecord": "播客记录",
+        "language": "语言",
+        "chinese": "中文",
+        "selectVoice": "选择音色",
+        "voicePreview": "试听",
+        "systemVoices": "系统音色",
+        "billing": {
+          "characterCount": "字符数",
+          "requiredPoints": "所需积分",
+          "currentPoints": "当前积分",
+          "insufficientPoints": "积分不足，无法生成访谈",
+          "needMorePoints": "还需 {points} 积分才能生成访谈"
+        },
+        "voiceCategories": {
+          "youth": "青年系列",
+          "mature": "成熟系列",
+          "sweet": "甜美系列",
+          "professional": "专业主持",
+          "audiobook": "有声书系列",
+          "premium": "精品版本",
+          "child": "童声系列",
+          "character": "角色扮演",
+          "cartoon": "卡通角色"
+        },
+        "voices": {
+          "male-qn-qingse": {
+            "name": "青涩青年",
+            "description": "青涩自然的青年男声，声音清澈纯真，适合年轻化内容"
+          },
+          "male-qn-jingying": {
+            "name": "精英青年",
+            "description": "成熟稳重的精英青年声音，专业有磁性，适合商务访谈"
+          },
+          "male-qn-badao": {
+            "name": "霸道青年",
+            "description": "霸气十足的青年男声，声音有力量感，适合强势表达"
+          },
+          "male-qn-daxuesheng": {
+            "name": "青年学生",
+            "description": "阳光活力的大学生声音，朝气蓬勃，适合教育和青春内容"
+          },
+          "female-shaonv": {
+            "name": "清纯少女",
+            "description": "清纯甜美的少女声音，温柔可人，适合温馨对话"
+          },
+          "female-yujie": {
+            "name": "知性御姐",
+            "description": "知性优雅的御姐声音，成熟魅力，适合专业访谈"
+          },
+          "female-chengshu": {
+            "name": "成熟女性",
+            "description": "温和成熟的女性声音，稳重大方，适合正式场合"
+          },
+          "female-tianmei": {
+            "name": "甜美女声",
+            "description": "甜美动人的女性声音，亲和力强，适合轻松内容"
+          },
+          "presenter_male": {
+            "name": "专业男主持",
+            "description": "专业的男性主持人声音，播音腔调，适合正式节目"
+          },
+          "presenter_female": {
+            "name": "专业女主持",
+            "description": "专业的女性主持人声音，标准播音，适合正式节目"
+          },
+          "audiobook_male_1": {
+            "name": "磁性男声",
+            "description": "富有磁性的男性朗读声音，适合有声书和深度内容"
+          },
+          "audiobook_male_2": {
+            "name": "温润男声",
+            "description": "温润如玉的男性声音，适合文学作品和知识分享"
+          },
+          "audiobook_female_1": {
+            "name": "优雅女声",
+            "description": "优雅动听的女性朗读声音，适合文艺和情感内容"
+          },
+          "audiobook_female_2": {
+            "name": "知性女声",
+            "description": "知性理性的女性声音，适合知识类和教育内容"
+          },
+          "male-qn-qingse-jingpin": {
+            "name": "青涩青年·精品版",
+            "description": "青涩青年音色的精品版本，音质更佳，表现力更强"
+          },
+          "male-qn-jingying-jingpin": {
+            "name": "精英青年·精品版",
+            "description": "精英青年音色的精品版本，更具专业魅力"
+          },
+          "male-qn-badao-jingpin": {
+            "name": "霸道青年·精品版",
+            "description": "霸道青年音色的精品版本，霸气更加突出"
+          },
+          "male-qn-daxuesheng-jingpin": {
+            "name": "青年学生·精品版",
+            "description": "青年学生音色的精品版本，活力更加饱满"
+          },
+          "female-shaonv-jingpin": {
+            "name": "清纯少女·精品版",
+            "description": "清纯少女音色的精品版本，甜美更加动人"
+          },
+          "female-yujie-jingpin": {
+            "name": "知性御姐·精品版",
+            "description": "知性御姐音色的精品版本，魅力更加迷人"
+          },
+          "female-chengshu-jingpin": {
+            "name": "成熟女性·精品版",
+            "description": "成熟女性音色的精品版本，温和更加动听"
+          },
+          "female-tianmei-jingpin": {
+            "name": "甜美女声·精品版",
+            "description": "甜美女声音色的精品版本，甜度更加浓郁"
+          },
+          "clever_boy": {
+            "name": "聪明小男孩",
+            "description": "聪明伶俐的小男孩声音，天真可爱，适合儿童内容"
+          },
+          "cute_boy": {
+            "name": "可爱小男孩",
+            "description": "可爱萌萌的小男孩声音，纯真无邪，适合亲子内容"
+          },
+          "lovely_girl": {
+            "name": "萌萌小女孩",
+            "description": "萌萌哒的小女孩声音，软糯可爱，适合温馨故事"
+          },
+          "cartoon_pig": {
+            "name": "卡通小猪琪",
+            "description": "卡通角色小猪琪的声音，活泼有趣，适合动画内容"
+          },
+          "bingjiao_didi": {
+            "name": "病娇小弟弟",
+            "description": "病娇属性的弟弟角色声音，独特个性，适合角色扮演"
+          },
+          "junlang_nanyou": {
+            "name": "俊朗男友",
+            "description": "俊朗帅气的男友声音，温柔体贴，适合情感内容"
+          },
+          "chunzhen_xuedi": {
+            "name": "纯真学弟",
+            "description": "纯真可爱的学弟声音，青春阳光，适合校园题材"
+          },
+          "lengdan_xiongzhang": {
+            "name": "冷淡学长",
+            "description": "冷淡高冷的学长声音，神秘魅力，适合都市题材"
+          },
+          "badao_shaoye": {
+            "name": "霸道少爷",
+            "description": "霸道总裁范的少爷声音，强势魅力，适合言情内容"
+          },
+          "tianxin_xiaoling": {
+            "name": "甜心小玲",
+            "description": "甜心可人的小玲声音，温柔甜美，适合浪漫内容"
+          },
+          "qiaopi_mengmei": {
+            "name": "俏皮萌妹",
+            "description": "俏皮可爱的萌妹声音，活泼灵动，适合轻松内容"
+          },
+          "wumei_yujie": {
+            "name": "妩媚御姐",
+            "description": "妩媚动人的御姐声音，性感魅力，适合成人内容"
+          },
+          "diadia_xuemei": {
+            "name": "嗲嗲学妹",
+            "description": "嗲声嗲气的学妹声音，撒娇可爱，适合甜宠内容"
+          },
+          "danya_xuejie": {
+            "name": "淡雅学姐",
+            "description": "淡雅知性的学姐声音，温文尔雅，适合文艺内容"
+          }
+        }
+      }
+    }
+  }
+}

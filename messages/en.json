@@ -1,0 +1,1183 @@
+{
+  "metadata": {
+    "title": "ITSAI Agent - Next-Generation Voice AI Agent Platform, Redefining Audio Creation Experience",
+    "description": "ITSAI Agent is an advanced AI-powered voice agent ecosystem featuring audio recognition, intelligent summarization, voice synthesis, and AI podcasting. From audio understanding to content creation, your all-in-one voice AI solution.",
+    "terms": {
+      "title": "Terms of Service - ITSAI Agent",
+      "description": "View ITSAI Agent's Terms of Service for voice AI agent services, understanding usage rules, user rights and responsibilities for audio recognition, voice generation and other services."
+    },
+    "privacy": {
+      "title": "Privacy Policy - ITSAI Agent",
+      "description": "Learn how ITSAI Agent collects, uses and protects your audio data and personal information to safeguard your privacy rights."
+    },
+    "cookies": {
+      "title": "Cookie Policy - ITSAI Agent",
+      "description": "Learn how ITSAI Agent uses cookies and related technologies to optimize voice AI agent service experience."
+    }
+  },
+  "navbar": {
+    "home": "Home",
+    "features": "Features",
+    "agents": "AI Agent",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "profile": "Profile",
+    "accountSettings": "Account Settings",
+    "signOut": "Sign Out"
+  },
+  "hero": {
+    "title": "Next-Generation Voice AI Agent Platform\nRedefining Audio Creation Experience",
+    "description": "Advanced AI-powered voice agent ecosystem featuring audio recognition, intelligent summarization, voice synthesis, and AI podcasting. From audio understanding to content creation, your all-in-one voice AI solution.",
+    "subscribe": {
+      "title": "Voice AI Revolution Begins",
+      "subtitle": "🎯 Experience Future Audio Technology",
+      "description": "Join the next-generation voice AI ecosystem. Become a pioneer user and unlock exclusive benefits with priority access",
+      "placeholder": "Enter email to start your voice AI journey",
+      "button": "Join Pioneer Program",
+      "button_loading": "Reserving...",
+      "button_success": "Reserved",
+      "success": "Welcome to the pioneer program! We'll unlock your voice AI experience first",
+      "error": "Reservation failed, please try again later",
+      "invalid_email": "Please enter a valid email address",
+      "coming_soon": "Coming Soon",
+      "early_access": "Early Access",
+      "development_notice": "💡 Product is under intensive development, launching soon!"
+    },
+    "badge": "🚀 Leading the Voice AI Revolution",
+    "features": {
+      "readyToUse": "Plug & Play",
+      "multiScenario": "Full-Spectrum Voice AI",
+      "professionalOutput": "Intelligent Audio Solutions"
+    }
+  },
+  "agents": {
+    "title": "Tailored AI Agent Services for Different Scenarios",
+    "contentSummaryAgent": {
+      "title": "Audio Content Summary Agent",
+      "description": "Automatically recognizes timestamped audio content and generates structured summaries using advanced reasoning models, quickly extracting key points and essential information."
+    },
+    "podcastAgent": {
+      "title": "AI Interview Podcast Agent",
+      "description": "Professional interview podcast production agent that generates host and guest dialogue interviews based on input content, with intelligent voice matching and human-like voice synthesis to help you create high-quality interview podcast shows effortlessly."
+    },
+    "voiceAgent": {
+      "title": "AI Voice Agent",
+      "description": "Intelligent voice-over service that generates professional voice-overs comparable to humans from text input. Multiple voice options, rich emotions, perfectly suited for all types of content."
+    },
+    "videoAgent": {
+      "title": "AI Video Agent",
+      "description": "One-stop video production agent, fully automated from script to finished video. Combines AI-generated content, voice-overs, and footage to quickly produce professional short videos."
+    },
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Professional Voice AI Agents, Complete Solutions from Understanding to Creation",
+    "liveGeneration": "Real-time Processing",
+    "aiAgent": "Voice AI Agent",
+    "audioRecognitionAgent": {
+      "title": "Audio Recognition Agent",
+      "description": "Enterprise-grade speech recognition service supporting Mandarin Chinese + English + 27 dialects mixed recognition, as well as nearly 100 global languages. Provides precise timestamp and speaker separation."
+    },
+    "contentSummaryAgent": {
+      "title": "Audio Summary Agent",
+      "description": "Professional audio summary AI agent based on advanced reasoning technology for deep audio content understanding. Automatically generates structured summaries, turning long audio into essential highlights."
+    },
+    "voiceGenerationAgent": {
+      "title": "Voice Generation Agent",
+      "description": "High-quality AI voice synthesis service supporting multiple tones and emotional expressions. From text to natural fluent speech, providing professional-grade voice creation for ads, audiobooks, and educational content."
+    },
+    "podcastAgent": {
+      "title": "AI Interview Podcast Agent",
+      "description": "One-stop interview podcast production service that generates host and guest dialogue interviews based on input content. Intelligently matches voice characteristics, supports diverse voice synthesis for professional interview podcast creation."
+    }
+  },
+  "pricing": {
+    "title": "Choose the Voice AI Service Plan That's Right for You",
+    "recommended": "Recommended",
+    "free": {
+      "name": "Trial",
+      "price": "$0",
+      "description": "Perfect for individuals to experience voice AI services",
+      "features": {
+        "agents": "Full access to all voice AI agents",
+        "generations": "100 credits included",
+        "support": "Community technical support"
+      },
+      "cta": "Use for Free"
+    },
+    "pro": {
+      "name": "Professional",
+      "price": "$9.99/month",
+      "originalPrice": "$15.00",
+      "discountPercent": "33",
+      "savings": "$5.01",
+      "discountBadge": "Limited Time 33% OFF",
+      "description": "Ideal for audio creators and content teams",
+      "features": {
+        "agents": "Full access to all voice AI agents",
+        "generations": "10,000 credits included",
+        "support": "Dedicated customer support"
+      },
+      "cta": "Upgrade Now"
+    },
+    "discount": {
+      "was": "Was",
+      "now": "Now",
+      "save": "Save",
+      "off": "OFF"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Contact Us",
+      "description": "For large enterprises and audio processing needs",
+      "features": {
+        "agents": "Custom voice AI agent development",
+        "custom": "Private deployment services",
+        "support": "24/7 technical support",
+        "isolation": "Enterprise-grade audio data security"
+      },
+      "cta": "Contact Sales"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions About Voice AI Agent Services",
+    "categories": {
+      "usage": "Usage",
+      "pricing": "Pricing"
+    },
+    "usage": {
+      "howToStart": {
+        "question": "How do I get started with voice AI agent services?",
+        "answer": "It's very simple! After registering an account, choose the voice AI agent type you need (audio recognition, audio summary, voice generation, or AI podcast), upload audio files or input text requirements, and the agent will automatically process and generate professional-grade results for you. No technical background required, ready to use immediately."
+      },
+      "voiceQuality": {
+        "question": "How is the quality of content generated by AI agents?",
+        "answer": "Our AI agents use the latest deep learning models and excel in their respective professional fields. Voice synthesis approaches human level, video production meets professional standards, and podcast content is logically clear. All agents have been extensively trained and optimized."
+      },
+      "contentOwnership": {
+        "question": "Who owns the copyright of content generated through agents?",
+        "answer": "All content generated through ITSAI agents is completely owned by you. You can freely use, modify, distribute, and commercialize this content without paying additional fees or royalties."
+      },
+      "dataPrivacy": {
+        "question": "Is my audio data secure when using voice AI agent services?",
+        "answer": "We strictly comply with data protection regulations and use enterprise-grade encryption technology. Your audio files are only used for AI processing and are automatically deleted or encrypted for storage after processing according to your settings. We never use your audio data for other purposes or model training."
+      }
+    },
+    "pricing": {
+      "pointsExpiry": {
+        "question": "How long are points valid?",
+        "answer": "Subscription bonus points expire when the subscription ends, while purchased points are valid permanently. This design ensures that paying users' rights are protected while encouraging continuous subscription to enjoy more services."
+      },
+      "upgradeAnytime": {
+        "question": "Can I upgrade my agent service plan anytime?",
+        "answer": "Absolutely! You can upgrade to a higher version of agent services anytime. Upgrades take effect immediately, and unused calls will accumulate to the next billing cycle, ensuring your investment isn't wasted."
+      },
+      "enterpriseFeatures": {
+        "question": "What special features does Enterprise agent service include?",
+        "answer": "Enterprise version provides custom agent development, private deployment, enterprise-grade data security, 24/7 technical support, and dedicated customer success manager services. Completely tailored agent solutions according to your business needs."
+      }
+    }
+  },
+  "blog": {
+    "title": "Explore the Limitless Possibilities of AI Agents",
+    "post1": {
+      "title": "5-Minute Guide: How to Use AI Voice Agents for Professional Voice-overs",
+      "excerpt": "Detailed tutorial to help you quickly master the use of AI voice agents, from text input to professional voice-over output complete process, making your content more engaging."
+    },
+    "post2": {
+      "title": "How AI Agents Revolutionize the Content Creation Industry",
+      "excerpt": "In-depth analysis of AI agent applications in content creation and how to achieve exponential efficiency improvements through agent services."
+    },
+    "post3": {
+      "title": "Success Story: How a Leading MCN Boosted Content Output by 300% with AI Agents",
+      "excerpt": "Real case sharing: Learn how professional content teams achieve scaled content production through ITSAI agent services, dramatically improving creative efficiency and content quality."
+    },
+    "readMore": "Read More"
+  },
+  "audioSummary": {
+    "title": "Intelligent Audio Summary",
+    "description": "Professional audio summary AI agent that automatically recognizes timestamped audio content and generates structured summaries using advanced reasoning technology. Supports nearly 100 global languages and 27 Chinese dialects.",
+    "badge": "🎵 Intelligent Audio Analysis",
+    "languageSelection": {
+      "label": "Version Selection",
+      "chineseVersion": "Chinese Version",
+      "globalVersion": "Global Version",
+      "comingSoon": "Coming Soon",
+      "chineseRecognition": "Chinese Recognition:",
+      "chineseCapability": "Supports Mandarin Chinese + English + Multi-dialect Mixed",
+      "dialectSupport": "Supports 27 Dialects:",
+      "dialectList": "Shanghainese, Sichuanese, Wuhan dialect, Guiyang dialect, Kunming dialect, Xi'an dialect, Zhengzhou dialect, Taiyuan dialect, Lanzhou dialect, Yinchuan dialect, Xining dialect, Nanjing dialect, Hefei dialect, Nanchang dialect, Changsha dialect, Suzhou dialect, Hangzhou dialect, Jinan dialect, Tianjin dialect, Shijiazhuang dialect, Heilongjiang dialect, Jilin dialect, Liaoning dialect, Minnan dialect, Hakka dialect, Cantonese, Nanning dialect",
+      "globalVersionDescription": "Global Version:",
+      "globalRecognition": "Global Recognition:",
+      "globalCapability": "Supports nearly 100 mainstream global languages",
+      "globalDescription": "Supports English, French, German, Spanish, Italian, Portuguese, Japanese, Korean, Russian, Arabic, Vietnamese, Indonesian, Malay, Thai, Cambodian, Burmese, Filipino, Greek, Turkish, Polish, Hungarian, Romanian, Swedish, Norwegian and nearly 100 mainstream national languages",
+      "chineseBilling": "Billing: Per-minute Billing, 30 points/minute",
+      "globalBilling": "Billing: Per-minute Billing, 42 points/minute",
+      "chineseSupport": "Supported Languages: Mandarin Chinese + English + 27 dialects mixed recognition (Shanghainese, Sichuanese, Wuhan dialect, Guiyang dialect, Kunming dialect, Xi'an dialect, Zhengzhou dialect, Taiyuan dialect, Lanzhou dialect, Yinchuan dialect, Xining dialect, Nanjing dialect, Hefei dialect, Nanchang dialect, Changsha dialect, Suzhou dialect, Hangzhou dialect, Jinan dialect, Tianjin dialect, Shijiazhuang dialect, Heilongjiang dialect, Jilin dialect, Liaoning dialect, Minnan dialect, Hakka dialect, Cantonese, Nanning dialect)",
+      "globalSupport": "Supported Languages: English, French, German, Spanish, Italian, Portuguese, Japanese, Korean, Russian, Arabic, Vietnamese, Indonesian, Malay, Thai, Cambodian, Burmese, Filipino, Greek, Turkish, Polish, Hungarian, Romanian, Swedish, Norwegian and nearly 100 national languages"
+    },
+    "errors": {
+      "chineseOnly": "Currently only supports Chinese speech recognition",
+      "selectAudioFile": "Please select an audio file or enter an audio URL",
+      "uploadFailed": "File upload failed",
+      "processingError": "Processing error",
+      "processingFailed": "Processing failed, please try again",
+      "loginRequired": "Login Required",
+      "loginRequiredDescription": "Please log in first to use the audio processing feature",
+      "insufficientPoints": "Insufficient points to complete audio summary",
+      "audioReadError": "Unable to read audio file, please ensure the file format is correct",
+      "recognitionFailed": "Speech recognition failed",
+      "summaryFailed": "AI reasoning summary generation failed",
+      "pointsDeductionFailed": "Points deduction failed",
+      "pointsDeductionFailedDescription": "Points deduction failed, but summary is completed. Please contact customer service.",
+      "fetchUserPointsFailed": "Failed to fetch user points",
+      "cannotReadAudioFile": "Cannot read audio file",
+      "cannotReadAudioUrl": "Cannot read audio URL",
+      "cannotReadAudioUrlDuration": "Cannot read audio URL duration",
+      "globalFileSizeLimit": "Global version file size cannot exceed {size}MB",
+      "globalFileFormatLimit": "Global version only supports the following formats: {formats}"
+    },
+    "input": {
+      "title": "Audio Input",
+      "uploadTab": "Upload File",
+      "urlTab": "Audio URL",
+      "uploadTitle": "Click to upload audio file",
+      "uploadDescription": "Support formats: wav, mp3, m4a, flv, mp4, wma, 3gp, amr, aac, ogg-opus, flac, max 1GB",
+      "uploadDescriptionGlobal": "Support formats: mp3, mp4, mpeg, mpga, m4a, wav, webm, max 25MB",
+      "urlLabel": "Audio URL",
+      "urlPlaceholder": "Enter audio file URL",
+      "urlDescription": "Audio URL duration cannot exceed 5 hours, file size cannot exceed 1GB",
+      "startButton": "Start AI Recognition & Summary",
+      "recognizingButton": "Recognizing Audio...",
+      "summarizingButton": "Generating Summary..."
+    },
+    "timestamp": {
+      "title": "Timestamped Content",
+      "recognizing": "Recognizing audio content...",
+      "recognizingDescription": "Estimated 2-3 minutes, please wait patiently",
+      "complete": "Recognition Complete",
+      "copy": "Copy",
+      "download": "Download",
+      "copySuccess": "Copy Successful",
+      "copySuccessDescription": "Timestamped content has been copied to clipboard",
+      "copyError": "Copy Failed",
+      "copyErrorDescription": "Unable to copy to clipboard, please select and copy manually",
+      "downloadSuccess": "Download Successful",
+      "downloadSuccessDescription": "Timestamped content has been saved as text file",
+      "downloadError": "Download Failed",
+      "downloadErrorDescription": "Unable to download file, please try again later",
+      "sampleContent1": "Welcome to ITSAI Agent audio content summary service. Today we will demonstrate how to use AI technology for intelligent audio content analysis and summarization.",
+      "sampleContent2": "Our system uses advanced speech recognition technology that can accurately identify multiple languages and dialects, including Mandarin Chinese and various regional dialects.",
+      "sampleContent3": "Through deep learning model analysis, the system can understand the semantics of audio content and generate structured summary reports."
+    },
+    "summary": {
+      "title": "Summary Result",
+      "summarizing": "Generating smart summary...",
+      "summarizingDescription": "Estimated 1-2 minutes, AI is analyzing content deeply",
+      "complete": "Summary Complete",
+      "copy": "Copy",
+      "download": "Download",
+      "copySuccess": "Copy Successful",
+      "copySuccessDescription": "Summary content has been copied to clipboard",
+      "copyError": "Copy Failed",
+      "copyErrorDescription": "Unable to copy to clipboard, please select and copy manually",
+      "downloadSuccess": "Download Successful",
+      "downloadSuccessDescription": "Summary content has been saved as text file",
+      "downloadError": "Download Failed",
+      "downloadErrorDescription": "Unable to download file, please try again later",
+      "sampleTitle": "# Audio Content Summary\\n\\n## Main Content Overview\\nThis audio discusses the application and development trends of artificial intelligence in content creation.\\n\\n## Key Points\\n1. **[00:00-02:30]** Breakthroughs in AI technology for audio processing\\n2. **[02:30-05:15]** Significant improvement in speech recognition accuracy\\n3. **[05:15-08:00]** Optimization improvements in content summarization algorithms\\n4. **[08:00-10:45]** Future development directions and application scenarios\\n\\n## Core Insights\\n- AI audio processing technology has reached commercial-grade level\\n- Timestamp recognition accuracy exceeds 95%\\n- Multi-language support capabilities continue to strengthen\\n- Structured summary quality continues to optimize\\n\\n## Conclusion\\nThis audio content comprehensively introduces the current status and future development direction of AI audio processing technology, providing valuable reference information for related practitioners."
+    },
+    "features": {
+      "title": "Powerful AI Audio Analysis",
+      "timestampTitle": "Timestamp Recognition",
+      "timestampDescription": "Precisely identify time points in audio and generate timestamped structured content",
+      "reasoningTitle": "Reasoning Model Analysis",
+      "reasoningDescription": "Based on advanced reasoning models for deep semantic understanding of audio content",
+      "structuredTitle": "Structured Summary",
+      "structuredDescription": "Automatically generate clear hierarchical summaries with key points and core insights"
+    },
+    "billing": {
+      "currentPoints": "Current Points:",
+      "thisConsumption": "This Consumption:",
+      "points": "points",
+      "minutes": "minutes",
+      "pointsPerMinute": "points/minute",
+      "insufficientPoints": "Insufficient Points",
+      "insufficientPointsMessage": "Your current points are insufficient to complete this audio summary service.",
+      "requiredPoints": "Required Points:",
+      "needToRecharge": "Need to Recharge:",
+      "goRecharge": "Go Recharge",
+      "audioSummaryService": "Audio Summary Service - {minutes} minutes",
+      "chineseVersionService": "Audio Summary Service (Chinese) - {minutes} minutes",
+      "globalVersionService": "Audio Summary Service (Global) - {minutes} minutes",
+      "pointsDeducted": "Points Deducted Successfully",
+      "pointsDeductedDescription": "Deducted {points} points, {remaining} points remaining"
+    },
+    "auth": {
+      "loginRequiredMessage": "Please log in first to use the audio summary feature.",
+      "loginNow": "Sign In Now"
+    },
+    "common": {
+      "cancel": "Cancel",
+      "back": "Back",
+      "login": "Sign In Now"
+    },
+    "processing": {
+      "started": "Processing Started",
+      "startedDescription": "Audio processing has started, it will be automatically saved to your records when completed",
+      "thinking": "Thinking...",
+      "thinkingDescription": "AI is recognizing your audio content, please wait",
+      "recognitionComplete": "Recognition Result",
+      "analyzing": "Analyzing and Summarizing...",
+      "analyzingDescription": "AI is deeply analyzing content and generating summary"
+    },
+    "storage": {
+      "saved": "Record Saved",
+      "savedDescription": "Your audio processing record has been safely saved locally",
+      "saveFailed": "Save Failed",
+      "saveFailedDescription": "Failed to save record, please check browser storage space"
+    }
+  },
+  "footer": {
+    "description": "Professional voice AI agent service provider, from audio recognition to voice creation, empowering your voice scenarios with artificial intelligence.",
+    "services": {
+      "title": "Services",
+      "features": "Features",
+      "pricing": "Pricing",
+      "blog": "Blog"
+    },
+    "product": {
+      "title": "Voice AI Agent Services",
+      "agents": "Voice AI Agent Types",
+      "features": "Features",
+      "pricing": "Service Plans"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "blog": "Blog"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Get the latest AI agent technology updates and product news",
+      "placeholder": "Enter your email address",
+      "subscribe_button": "Subscribe",
+      "success": "Successfully subscribed!",
+      "subscribe": {
+        "successMessage": "Successfully subscribed! Thank you for subscribing, we will send you the latest updates regularly.",
+        "subscribeError": "Subscription failed, please try again later",
+        "networkError": "Network error, please try again later"
+      },
+      "unsubscribe": {
+        "title": "Unsubscribe from Newsletter",
+        "description": "We're sorry to see you go, but we respect your choice",
+        "emailLabel": "Email Address",
+        "emailPlaceholder": "Enter your email address",
+        "button": "Unsubscribe",
+        "processing": "Processing...",
+        "loadingText": "Processing...",
+        "successMessage": "If you change your mind, you can always resubscribe to our newsletter.",
+        "backToHome": "Back to Home",
+        "networkError": "Network error, please try again later",
+        "unsubscribeError": "Failed to unsubscribe"
+      }
+    },
+    "copyright": "ITSAI Agent. All rights reserved."
+  },
+  "verify": {
+    "title": "Email Verification",
+    "description": "Verify your email address to complete account registration",
+    "meta_title": "Email Verification",
+    "meta_description": "Verify your ITSAI Agent account email to complete account activation",
+    "verifying": "Verifying your email...",
+    "success": "Email verification successful!",
+    "failed": "Email verification failed",
+    "token_missing": "Verification token is missing",
+    "failed_retry": "Verification failed, please try again later",
+    "please_wait": "Please wait, verifying your email address...",
+    "login_now": "Login Now",
+    "register_again": "Register Again",
+    "or": "or",
+    "back_to_login": "Back to Login"
+  },
+  "auth": {
+    "signin_title": "Sign In",
+    "signin_description": "Sign in to your ITSAI Agent account to start using voice AI agent services",
+    "signup_title": "Sign Up",
+    "signup_description": "Create your ITSAI Agent account and start your voice AI journey",
+    "error_title": "Authentication Error",
+    "error_description": "An error occurred during authentication, please try again or contact technical support",
+    "error_page_title": "Sign In Failed",
+    "error_page_description": "An error occurred during authentication",
+    "error_back_to_signin": "Back to Sign In",
+    "error_back_to_home": "Back to Home",
+    "error_contact_support": "If the problem persists, please contact",
+    "error_technical_support": "technical support",
+    "errors": {
+      "Configuration": "Server configuration error, please contact administrator",
+      "AccessDenied": "Access denied, you may not have permission to access this application",
+      "Verification": "Verification failed, please try again",
+      "OAuthSignin": "Third-party sign in failed, please try again",
+      "OAuthCallback": "Third-party sign in callback failed",
+      "OAuthCreateAccount": "Cannot create account, this email may already be in use",
+      "EmailCreateAccount": "Cannot create account, please check email address",
+      "Callback": "Callback error, please try again",
+      "OAuthAccountNotLinked": "This third-party account is not linked to an existing account, please use other sign in methods",
+      "EmailSignin": "Email sign in failed, please check email address",
+      "CredentialsSignin": "Invalid credentials, please check email and password",
+      "SessionRequired": "Login required to access this page",
+      "OAuthTokenError": "Failed to get authorization token, please try logging in again",
+      "OAuthUserInfoError": "Failed to get user information, please check authorization permissions",
+      "default": "Unknown error occurred during authentication, please try again"
+    },
+    "welcome_back": "Welcome Back",
+    "login_description": "Sign in to your ITSAI Agent account",
+    "email": "Email Address",
+    "password": "Password",
+    "email_placeholder": "Enter your email address",
+    "password_placeholder": "Enter your password",
+    "login": "Sign In",
+    "logging_in": "Signing in...",
+    "login_error": "Invalid email or password",
+    "login_failed": "Sign in failed, please try again later",
+    "no_account": "Don't have an account?",
+    "signup_now": "Sign up now",
+    "forgot_password": "Forgot password?",
+    "create_account": "Create Account",
+    "name": "Username",
+    "name_placeholder": "Enter your username",
+    "password_signup_placeholder": "Enter password (at least 6 characters)",
+    "confirm_password": "Confirm Password",
+    "confirm_password_placeholder": "Enter password again",
+    "password_mismatch": "Passwords do not match",
+    "password_too_short": "Password must be at least 6 characters",
+    "register_failed": "Registration failed",
+    "register_retry": "Registration failed, please try again later",
+    "registering": "Creating account...",
+    "register_success": "Registration successful",
+    "has_account": "Already have an account?",
+    "login_now": "Sign in now",
+    "terms_agreement": "By registering, you agree to our",
+    "terms_of_service": "Terms of Service",
+    "and": "and",
+    "privacy_policy": "Privacy Policy",
+    "loginRequiredMessage": "Please log in first to use the audio summary feature.",
+    "loginNow": "Sign In Now"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back",
+    "login": "Sign In Now"
+  },
+  "forgot_password": {
+    "title": "Forgot Password",
+    "description": "Enter your email address and we'll send you a link to reset your password",
+    "meta_title": "Forgot Password",
+    "meta_description": "Recover your ITSAI Agent account password by resetting it via email",
+    "email_label": "Email Address",
+    "email_placeholder": "Enter your email address",
+    "send_reset_link": "Send Reset Link",
+    "sending": "Sending...",
+    "success_message": "Password reset link has been sent to your email",
+    "check_email": "Please check your email and click the link to reset your password",
+    "back_to_login": "Back to Login",
+    "email_required": "Please enter your email address",
+    "email_invalid": "Please enter a valid email address",
+    "send_failed": "Failed to send, please try again later",
+    "user_not_found": "This email address is not registered",
+    "rate_limit": "Too many requests, please try again later"
+  },
+  "reset_password": {
+    "title": "Reset Password",
+    "description": "Enter your new password",
+    "meta_title": "Reset Password",
+    "meta_description": "Reset your ITSAI Agent account password and set a new secure password",
+    "password_label": "New Password",
+    "password_placeholder": "Enter your new password",
+    "confirm_password_label": "Confirm Password",
+    "confirm_password_placeholder": "Enter your new password again",
+    "reset_password": "Reset Password",
+    "resetting": "Resetting...",
+    "success_message": "Password reset successful!",
+    "login_now": "Login Now",
+    "password_required": "Please enter password",
+    "password_min_length": "Password must be at least 6 characters",
+    "password_mismatch": "Passwords do not match",
+    "token_invalid": "Reset link is invalid or expired",
+    "token_expired": "Reset link has expired, please request a new one",
+    "reset_failed": "Reset failed, please try again later",
+    "back_to_forgot": "Back to Forgot Password"
+  },
+  "profile": {
+    "title": "Profile",
+    "description": "View and manage your account information",
+    "menu": "Menu",
+    "please_login": "Please login to view your profile",
+    "login_required": "Please login first",
+    "no_name_set": "No username set",
+    "not_set": "Not set",
+    "verified": "Verified",
+    "loading": "Loading...",
+    "points": "Points",
+    "points_history": "Points History",
+    "points_history_description": "View your points earning and spending history",
+    "no_points_history": "No points history yet",
+    "register_bonus": "Registration Bonus",
+    "email_verify_bonus": "Email Verification Bonus",
+    "daily_login_bonus": "Daily Login Bonus",
+    "referral_bonus": "Referral Bonus",
+    "manual_operation": "Manual Operation",
+    "points_operation": "Points Operation",
+    "pagination": {
+      "page_info": "Page {current} of {total}",
+      "total_records": "{total} records in total",
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "points_actions": {
+      "register": "Registration Bonus",
+      "email_verify": "Email Verification Bonus",
+      "daily_login": "Daily Login Bonus",
+      "referral": "Referral Bonus",
+      "manual": "Admin Operation",
+      "purchase": "Purchase Points",
+      "subscription_gift": "Pro Subscription Gift Points",
+      "subscription_renewal_gift": "Pro Subscription Renewal Gift Points (30 Days Extended)",
+      "subscription_expired": "Subscription Expired Deduction",
+      "interview_generation": "Interview Podcast Generation Service",
+      "interview_generation_with_characters": "Interview Podcast Generation Service - {characters} characters",
+      "unknown": "Unknown Operation",
+      "pay_amount": "Pay {amount}"
+    },
+    "account_info": "Account Info",
+    "registration_date": "Registration Date",
+    "last_login": "Last Login",
+    "account_status": "Account Status",
+    "email_verified": "Email Verified",
+    "account_secure": "Account Secure",
+    "profile_complete": "Profile Complete",
+    "personal_info": "Personal Information",
+    "account_settings": "Account Settings",
+    "connected_accounts": "Connected Accounts",
+    "security": "Security Settings",
+    "name": "Username",
+    "name_placeholder": "Enter your username",
+    "email": "Email Address",
+    "email_unverified": "Unverified",
+    "verify_email": "Verify Email",
+    "avatar": "Avatar",
+    "change_avatar": "Change Avatar",
+    "current_password": "Current Password",
+    "current_password_placeholder": "Enter your current password",
+    "new_password": "New Password",
+    "new_password_placeholder": "Enter your new password",
+    "confirm_new_password": "Confirm New Password",
+    "confirm_new_password_placeholder": "Enter your new password again",
+    "change_password": "Change Password",
+    "save_changes": "Save Changes",
+    "saving": "Saving...",
+    "saved": "Saved",
+    "cancel": "Cancel",
+    "connect": "Connect",
+    "connecting": "Connecting...",
+    "disconnect": "Disconnect",
+    "connected": "Connected",
+    "not_connected": "Not Connected",
+    "github_account": "GitHub Account",
+    "google_account": "Google Account",
+    "delete_account": "Delete Account",
+    "delete_account_warning": "Deleting your account will permanently remove all your data. This action cannot be undone!",
+    "delete_account_confirm": "I confirm that I want to delete my account",
+    "delete_account_button": "Permanently Delete Account",
+    "member_since": "Member Since",
+    "success_message": "Updated successfully!",
+    "error_message": "Update failed, please try again later",
+    "password_changed": "Password changed successfully!",
+    "password_change_failed": "Password change failed",
+    "account_connected": "Account connected successfully!",
+    "account_disconnected": "Account disconnected successfully!",
+    "account_connection_failed": "Account connection failed",
+    "email_verification_sent": "Verification email sent",
+    "name_required": "Please enter your username",
+    "current_password_required": "Please enter your current password",
+    "new_password_required": "Please enter your new password",
+    "password_min_length": "Password must be at least 6 characters",
+    "password_mismatch": "Passwords do not match",
+    "current_password_incorrect": "Current password is incorrect",
+    "subscription_info": "Subscription Info",
+    "subscription_info_description": "View and manage your subscription plan",
+    "subscription_status": "Subscription Status",
+    "subscription_active": "Active",
+    "subscription_cancelled": "Cancelled",
+    "subscription_past_due": "Past Due",
+    "subscription_free": "Free User",
+    "subscription_expires": "Expires",
+    "subscription_expiring_soon": "Expiring Soon",
+    "subscription_expired": "Expired",
+    "plan_free": "Free Plan",
+    "plan_pro": "Pro Plan",
+    "plan_enterprise": "Enterprise Plan",
+    "plan_free_description": "Basic features for individual users",
+    "plan_pro_description": "Full features for professional users",
+    "plan_enterprise_description": "Custom services for enterprise users",
+    "manage_subscription": "Manage Subscription",
+    "upgrade_to_pro": "Upgrade to Pro",
+    "upgrade_benefits_title": "Upgrade for More Features",
+    "upgrade_benefits_1": "Unlimited access to all AI agents",
+    "upgrade_benefits_2": "Priority customer support",
+    "upgrade_benefits_3": "Advanced data analytics",
+    "upgrade_benefits_4": "Customized services",
+    "upgrade_benefits_description": "Upgrade to Pro to unlock all AI agent features, enjoy more credits and exclusive services.",
+    "view_pricing": "View Pricing",
+    "points_purchase": "Points Purchase",
+    "points_purchase_description": "Buy points to use AI agent services",
+    "points_package_starter": "Starter Package",
+    "points_package_popular": "Popular Package",
+    "points_package_premium": "Premium Package",
+    "points_usage_title": "Points Usage",
+    "points_usage_ai_service": "AI agent service calls",
+    "points_usage_premium_features": "Premium feature unlock",
+    "points_usage_priority_support": "Priority customer support",
+    "purchase_now": "Buy Now",
+    "processing_payment": "Processing...",
+    "payment_success": "Payment Successful",
+    "payment_failed": "Payment Failed",
+    "order_details": "Order Details",
+    "complete_payment": "Complete Payment",
+    "cancel_payment": "Cancel",
+    "card_info": "Card Information",
+    "pay_amount": "Pay",
+    "purchase_success": "Purchase Successful!",
+    "points_added": "Points added",
+    "current_points": "Current Points",
+    "purchased_points_label": "Purchased Points (Never Expire)",
+    "gifted_points_label": "Gifted Points (Clear on Subscription Expiry)",
+    "subscription_gift_notice": "You are currently subscribed to Pro and have received 10,000 gifted points",
+    "purchased_points": "Purchased Points",
+    "purchased_points_description": "Points purchased through payment, never expire, can be used long-term",
+    "gifted_points": "Gifted Points",
+    "gifted_points_description": "Points gifted with Pro subscription, will be cleared when subscription expires",
+    "usage_priority": "Usage Priority",
+    "usage_priority_description": "System will prioritize using gifted points first, then purchased points",
+    "recommended": "Recommended",
+    "processing": "Processing...",
+    "payment_history": "Payment History",
+    "payment_history_details": {
+      "title": "Payment History",
+      "stats": {
+        "title": "Payment Statistics",
+        "total_payments": "Total Payments",
+        "total_amount": "Total Amount",
+        "total_points_purchased": "Total Points Purchased",
+        "successful_payments": "Successful Payments"
+      },
+      "payment_types": {
+        "subscription": "Subscription",
+        "points_purchase": "Points Purchase",
+        "other": "Other"
+      },
+      "payment_statuses": {
+        "succeeded": "Succeeded",
+        "failed": "Failed",
+        "pending": "Pending",
+        "refunded": "Refunded",
+        "cancelled": "Cancelled"
+      },
+      "table": {
+        "type": "Type",
+        "product": "Product",
+        "amount": "Amount",
+        "points": "Points",
+        "status": "Status",
+        "time": "Time"
+      },
+      "filters": {
+        "type_placeholder": "Filter by Type",
+        "status_placeholder": "Filter by Status",
+        "all_types": "All Types",
+        "all_statuses": "All Statuses"
+      },
+      "empty_state": {
+        "title": "No Payment Records"
+      },
+      "errors": {
+        "fetch_failed": "Failed to fetch payment records"
+      }
+    },
+    "payment_history_description": "View all your payment records and transaction details"
+  },
+  "dashboard": {
+    "payment_success": {
+      "title": "Subscription Successful!",
+      "subtitle": "Welcome to ITSAI Agent Professional",
+      "processing_title": "Processing Payment Result",
+      "processing_description": "Please wait while we confirm your subscription status...",
+      "verifying_title": "Verifying Subscription Status",
+      "verifying_description": "Confirming your professional subscription...",
+      "success_toast": "🎉 Professional subscription successful! You have received 10,000 bonus points",
+      "no_session_toast": "💡 You have reached the subscription success page, please use the navigation buttons below"
+    },
+    "subscription_info": {
+      "title": "Professional Subscription",
+      "status_label": "Subscription Status:",
+      "status_active": "Active",
+      "status_processing": "Processing",
+      "plan_label": "Subscription Plan:",
+      "plan_pro": "Professional",
+      "expires_label": "Expires:"
+    },
+    "points_reward": {
+      "title": "Points Reward",
+      "total_points": "Total Points",
+      "purchased_points": "Purchased Points",
+      "gifted_points": "Gifted Points",
+      "gift_notice": "🎁 You have received {points} professional bonus points!"
+    },
+    "actions": {
+      "view_profile": "View Profile",
+      "back_home": "Back to Home"
+    },
+    "loading": "Loading...",
+    "error": {
+      "fetch_failed": "Failed to fetch subscription information, please refresh and try again",
+      "manage_subscription_failed": "Unable to open subscription management page, please try again later"
+    }
+  },
+  "legal": {
+    "title": "Legal Terms",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy"
+  },
+  "unauthorized": {
+    "title": "Access Denied",
+    "description": "You don't have permission to access this page. This page is restricted to administrators only.",
+    "errorMessage": "If you believe this is an error, please contact the system administrator.",
+    "backToHome": "Back to Home",
+    "signInAgain": "Sign In Again"
+  },
+  "testimonials": {
+    "title": "User Reviews",
+    "description": "Join thousands of professionals already using ITSAI Agent for audio recognition, content summarization, voice generation, and podcast creation"
+  },
+  "blogPage": {
+    "title": "ITSAI Agent Blog",
+    "subtitle": "Explore the latest AI agent technology trends and insights",
+    "contactPost": {
+      "badge": "Latest",
+      "date": "December 2024",
+      "author": "ITSAI Team",
+      "title": "Contact Us - Let's Explore the Infinite Possibilities of AI Together",
+      "description": "We're excited to connect with you! Whether you want to learn about our AI agent services or have any technical questions, we're always ready to help.",
+      "contactMethods": {
+        "title": "🌍 Contact Methods",
+        "twitter": {
+          "title": "Twitter",
+          "description": "Follow us for latest updates",
+          "handle": "@itusi2024"
+        },
+        "email": {
+          "title": "Email",
+          "description": "Business & Technical Support",
+          "address": "app@itusi.cn"
+        }
+      },
+      "services": {
+        "title": "🚀 What We Can Do For You?",
+        "podcast": "Professional podcast script generation and audio production services",
+        "voiceover": "High-quality AI voice synthesis supporting multiple voice styles",
+        "video": "Complete production workflow from text to video",
+        "support": "24/7 professional technical support",
+        "custom": "Tailored AI agents according to your needs"
+      },
+      "cta": {
+        "title": "Ready to Start Your AI Journey?",
+        "startNow": "Start Now",
+        "contactUs": "Contact Us"
+      }
+    },
+    "otherPosts": {
+      "title": "Voice AI Technology Insights",
+      "description": "Explore the latest voice AI agent technology trends and in-depth analysis",
+      "post1": {
+        "category": "Technology Analysis",
+        "date": "July 2025",
+        "title": "How Does Audio Summary Agent Work?",
+        "excerpt": "Understand how audio summary agents work, from audio recognition to content understanding, to structured summary generation."
+      },
+      "post2": {
+        "category": "Product Introduction",
+        "date": "July 2025",
+        "title": "What Voice AI Agents Does ITSAI Agent Provide?",
+        "excerpt": "Explore the four major voice AI agent types provided by ITSAI Agent platform: audio recognition, audio summarization, voice generation, and AI podcasts."
+      },
+      "post3": {
+        "category": "Industry Insights",
+        "date": "July 2025",
+        "title": "What is an AI Agent?",
+        "excerpt": "Understand the definition, working principles, and application scenarios of AI agents."
+      },
+      "readMore": "Read More"
+    }
+  },
+  "agent": {
+    "title": "Audio Chat Assistant",
+    "aiWorkbench": "AI Agent Workbench",
+    "chatHistory": "Chat History",
+    "newSession": "New Session",
+    "noSessions": "No chat sessions",
+    "messages": "messages",
+    "totalSessions": "Total Sessions",
+    "totalMessages": "Total Messages",
+    "chineseVersion": "Chinese",
+    "globalVersion": "Global",
+    "points": "points",
+    "welcomeTitle": "Welcome to Audio Chat Assistant",
+    "welcomeDescription": "Upload audio files and I'll provide intelligent transcription and summary services",
+    "uploadHint": "Please select a version and upload an audio file below to start the conversation",
+    "uploadedAudio": "Uploaded audio",
+    "processingAudio": "Processing audio...",
+    "uploadingAudio": "Uploading audio file...",
+    "recognizingAudio": "Performing speech recognition...",
+    "generatingSummary": "Generating AI summary...",
+    "processingComplete": "Processing complete",
+    "you": "You",
+    "assistant": "Assistant",
+    "processing": "Processing",
+    "error": "Error",
+    "summary": "Summary",
+    "timestamp": "Timestamp",
+    "aiSummary": "AI Summary",
+    "timestampContent": "Timestamped Content",
+    "copied": "Copied",
+    "uploadAudio": "Upload Audio",
+    "audioUrlPlaceholder": "Enter audio file URL...",
+    "uploadFile": "Upload File",
+    "audioUrl": "Audio URL",
+    "dragDropAudio": "Drag and drop audio files here",
+    "supportedFormats": "Supports MP3, WAV, M4A, AAC and other formats",
+    "selectFile": "Select File",
+    "audioUrlTitle": "Load Audio from URL",
+    "audioUrlDescription": "Enter the direct link to an audio file",
+    "loadUrl": "Load",
+    "noMessages": "No messages",
+    "selectVersion": "Select Version",
+    "selectAudioFile": "Select Audio File",
+    "aiAgents": "AI Agents",
+    "audioSummaryAgent": "Audio Summary Agent",
+    "audioSummaryAgentDesc": "Intelligent audio content summarization",
+    "podcastAiAgent": "AI Interview Podcast Agent",
+    "podcastAiAgentDesc": "Intelligent interview podcast content generation and voice synthesis",
+    "comingSoon": "Coming Soon",
+    "processingHistory": "Processing History",
+    "noProcessingHistory": "No processing history",
+    "noProcessingHistoryDescription": "Upload an audio file to start your first processing",
+    "loadMore": "Load More",
+    "records": "records",
+    "totalRecords": "Total Records",
+    "audioProcessing": "Audio Processing",
+    "agentComingSoonDescription": "This agent is under development, stay tuned",
+    "pointsPerMinute": "points/min",
+    "chineseVersionDescription": "Based on Tencent Cloud ASR + DeepSeek reasoning, supports Chinese dialects",
+    "globalVersionDescription": "Based on OpenAI Whisper + Google Gemini, supports 100+ languages",
+    "chineseVersionFeatures": "Chinese dialect support, high recognition accuracy",
+    "globalVersionFeatures": "Multi-language support, global coverage",
+    "audioSummaryWelcome": "Audio Summary Agent",
+    "audioSummaryDescription": "Intelligent audio content recognition and summarization, supports multiple languages and formats",
+    "selectVersionHint": "Please select a recognition version and upload an audio file to start processing",
+    "selectAgent": "Select Agent",
+    "selectAgentDescription": "Please select an agent from the left sidebar to get started",
+    "errors": {
+      "loginRequired": "Please login first",
+      "loginRequiredDescription": "You need to login to use the audio summary feature",
+      "processingFailed": "Audio processing failed, please try again later"
+    },
+    "interviewPodcast": {
+      "title": "AI Interview Podcast Agent",
+      "description": "Generate host and guest dialogue interviews based on input content, intelligent voice synthesis",
+      "badge": "🎙️ Intelligent Interview Podcast Generation",
+      "inputPlaceholder": "Please enter the content for generating interview podcast...",
+      "generateButton": "Generate Interview Podcast",
+      "generating": "Generating interview content...",
+      "synthesizing": "Synthesizing voice...",
+      "processing": "Processing...",
+      "downloadAudio": "Download Audio",
+      "playAudio": "Play Audio",
+      "pauseAudio": "Pause Audio",
+      "hostLabel": "Host",
+      "guestLabel": "Guest",
+      "voicePromptGenerated": "Voice characteristics generated",
+      "audioSynthesized": "Voice synthesis completed",
+      "error": "Generation failed, please try again",
+      "podcastRecords": "Podcast Records",
+      "noPodcastRecords": "No podcast records",
+      "noPodcastRecordsDescription": "Start creating your first interview podcast",
+      "totalPodcasts": "Total Podcasts",
+      "errors": {
+        "inputRequired": "Please enter content for generating interview podcast",
+        "dialogueRequired": "Please generate dialogue content first",
+        "voicePromptRequired": "Please generate voice prompts first",
+        "voiceDesignRequired": "Please design voices first",
+        "generateFailed": "Failed to generate interview content",
+        "voicePromptFailed": "Failed to generate voice prompts",
+        "voiceDesignFailed": "Voice design failed",
+        "voiceSynthesisFailed": "Voice synthesis failed",
+        "unknownError": "Unknown error",
+        "copyFailed": "Unable to copy to clipboard",
+        "saveRecordFailed": "Failed to save record",
+        "incompleteAudioData": "Incomplete audio data, cannot save record",
+        "incompleteSegmentAudio": "Some dialogue segments are missing audio data, cannot save record",
+        "storageQuotaExceeded": "Storage quota exceeded",
+        "storageQuotaExceededDesc": "Browser storage is full, please clear other website data or delete old podcast records",
+        "noPreGeneratedAudio": "Optimization solution did not return pre-generated audio, please check API configuration",
+        "insufficientPoints": "Insufficient points",
+        "insufficientPointsDesc": "Requires {required} points, current {current} points. Character count: {characters}"
+      },
+      "success": {
+        "dialogueGenerated": "Dialogue generated successfully",
+        "dialogueGeneratedDesc": "Please preview the dialogue content, then click generate voice",
+        "podcastGenerated": "Interview podcast generated successfully",
+        "copySuccess": "Copy successful",
+        "copySuccessDesc": "Original content copied to clipboard",
+        "recordSaved": "Record saved successfully",
+        "recordSavedWithAudio": "Podcast record and audio data saved permanently",
+        "cleanupCompleted": "Cleanup completed",
+        "cleanupCompletedDesc": "Kept the latest {count} records, freed up storage space",
+        "dialogueGeneratedWithBilling": "Dialogue generated successfully, {points} points deducted, {remaining} points remaining. Character count: {characters}",
+        "podcastGeneratedWithBilling": "Podcast generated successfully, {points} points deducted, {remaining} points remaining. Character count: {characters}"
+      },
+      "ui": {
+        "analyzing": "Analyzing",
+        "analyzingDesc": "Intelligently analyzing your content, designing host and guest roles, generating natural dialogue...",
+        "generatingVoiceFeatures": "Generating voice characteristics",
+        "generatingVoiceFeaturesDesc": "Generating unique voice characteristics for each role based on dialogue content...",
+        "designingVoices": "Designing voices",
+        "designingVoicesDesc": "Designing unique voices for each role based on voice characteristics...",
+        "generatingAudio": "Generating audio",
+        "generatingAudioDesc": "Using designed voices to generate high-quality audio for each dialogue segment...",
+        "dialoguePreview": "Dialogue Preview",
+        "dialoguePreviewDesc": "Please preview the generated dialogue content and confirm before generating voice",
+        "dialogueContent": "Interview Dialogue Content",
+        "originalContent": "Original Content",
+        "interviewDialogue": "Interview Dialogue",
+        "completePodcast": "Complete Podcast",
+        "voiceCharacteristics": "Voice Characteristics",
+        "copy": "Copy",
+        "regenerateDialogue": "Regenerate Dialogue",
+        "generateVoice": "Generate Voice",
+        "processing": "Processing...",
+        "contentInput": "Content Input",
+        "inputLabel": "Enter content for generating interview podcast",
+        "inputHint": "Please enter content with clear themes and key information. The more detailed the content, the richer the generated interview dialogue",
+        "features": "Features",
+        "intelligentDialogue": "Intelligent Dialogue Generation",
+        "intelligentDialogueDesc": "Using advanced AI technology to intelligently analyze content themes, automatically design host and guest roles, and generate natural dialogue of appropriate length based on content richness",
+        "intelligentVoice": "Intelligent Voice Synthesis",
+        "intelligentVoiceDesc": "Intelligently match unique voice characteristics for each role, synthesize high-quality human-like voices, presenting professional podcast effects",
+        "oneStopProduction": "One-Stop Production",
+        "oneStopProductionDesc": "From content analysis to audio synthesis, fully automated workflow, one-click generation of complete professional interview podcasts",
+        "loginRequired": "Login Required",
+        "loginRequiredDesc": "Please login to use the AI interview podcast feature",
+        "loginNow": "Login Now",
+        "segmentCount": "Total {count} dialogue segments",
+        "browserNotSupported": "Your browser does not support audio playback.",
+        "previewMode": "Preview Mode",
+        "aiAgent": "AI Agent",
+        "editContent": "Edit Content",
+        "editOriginalContent": "Edit Original Content",
+        "editDialogue": "Edit Dialogue",
+        "saveChanges": "Save Changes",
+        "cancelEdit": "Cancel Edit",
+        "editSuccess": "Edit Successful",
+        "editSuccessDesc": "Content has been successfully updated",
+        "editFailed": "Edit Failed",
+        "editFailedDesc": "Save failed, please try again",
+        "voiceSettings": "Voice Settings",
+        "hostVoice": "Host Voice",
+        "guestVoice": "Guest Voice",
+        "editDialogueContent": "Edit dialogue content",
+        "save": "Save",
+        "cancel": "Cancel",
+        "back": "Back",
+        "podcastRecord": "Podcast Record",
+        "language": "Language",
+        "chinese": "Chinese",
+        "selectVoice": "Select Voice",
+        "voicePreview": "Preview",
+        "systemVoices": "System Voices",
+        "billing": {
+          "characterCount": "Character Count",
+          "requiredPoints": "Required Points",
+          "currentPoints": "Current Points",
+          "insufficientPoints": "Insufficient points, cannot generate interview",
+          "needMorePoints": "Need {points} more points to generate interview"
+        },
+        "voiceCategories": {
+          "youth": "Youth Series",
+          "mature": "Mature Series",
+          "sweet": "Sweet Series",
+          "professional": "Professional Host",
+          "audiobook": "Audiobook Series",
+          "premium": "Premium Version",
+          "child": "Child Voice",
+          "character": "Character Role",
+          "cartoon": "Cartoon Character"
+        },
+        "voices": {
+          "male-qn-qingse": {
+            "name": "Innocent Youth",
+            "description": "Natural and innocent young male voice, clear and pure, suitable for youthful content"
+          },
+          "male-qn-jingying": {
+            "name": "Elite Youth",
+            "description": "Mature and steady elite youth voice, professional and magnetic, suitable for business interviews"
+          },
+          "male-qn-badao": {
+            "name": "Dominant Youth",
+            "description": "Powerful young male voice with strong presence, suitable for assertive expression"
+          },
+          "male-qn-daxuesheng": {
+            "name": "Young Student",
+            "description": "Sunny and energetic college student voice, vibrant and suitable for educational content"
+          },
+          "female-shaonv": {
+            "name": "Pure Girl",
+            "description": "Pure and sweet girl voice, gentle and lovely, suitable for warm conversations"
+          },
+          "female-yujie": {
+            "name": "Intellectual Lady",
+            "description": "Intellectual and elegant lady voice, mature charm, suitable for professional interviews"
+          },
+          "female-chengshu": {
+            "name": "Mature Woman",
+            "description": "Gentle and mature female voice, steady and graceful, suitable for formal occasions"
+          },
+          "female-tianmei": {
+            "name": "Sweet Female",
+            "description": "Sweet and charming female voice, highly affable, suitable for relaxed content"
+          },
+          "presenter_male": {
+            "name": "Professional Male Host",
+            "description": "Professional male host voice with broadcasting tone, suitable for formal programs"
+          },
+          "presenter_female": {
+            "name": "Professional Female Host",
+            "description": "Professional female host voice with standard broadcasting, suitable for formal programs"
+          },
+          "audiobook_male_1": {
+            "name": "Magnetic Male",
+            "description": "Magnetic male reading voice, suitable for audiobooks and deep content"
+          },
+          "audiobook_male_2": {
+            "name": "Gentle Male",
+            "description": "Gentle and warm male voice, suitable for literary works and knowledge sharing"
+          },
+          "audiobook_female_1": {
+            "name": "Elegant Female",
+            "description": "Elegant and melodious female reading voice, suitable for artistic and emotional content"
+          },
+          "audiobook_female_2": {
+            "name": "Intellectual Female",
+            "description": "Intellectual and rational female voice, suitable for knowledge and educational content"
+          },
+          "male-qn-qingse-jingpin": {
+            "name": "Innocent Youth Premium",
+            "description": "Premium version of Innocent Youth voice with better quality and stronger expressiveness"
+          },
+          "male-qn-jingying-jingpin": {
+            "name": "Elite Youth Premium",
+            "description": "Premium version of Elite Youth voice with more professional charm"
+          },
+          "male-qn-badao-jingpin": {
+            "name": "Dominant Youth Premium",
+            "description": "Premium version of Dominant Youth voice with enhanced dominance"
+          },
+          "male-qn-daxuesheng-jingpin": {
+            "name": "Young Student Premium",
+            "description": "Premium version of Young Student voice with enhanced vitality"
+          },
+          "female-shaonv-jingpin": {
+            "name": "Pure Girl Premium",
+            "description": "Premium version of Pure Girl voice with enhanced sweetness"
+          },
+          "female-yujie-jingpin": {
+            "name": "Intellectual Lady Premium",
+            "description": "Premium version of Intellectual Lady voice with enhanced charm"
+          },
+          "female-chengshu-jingpin": {
+            "name": "Mature Woman Premium",
+            "description": "Premium version of Mature Woman voice with enhanced gentleness"
+          },
+          "female-tianmei-jingpin": {
+            "name": "Sweet Female Premium",
+            "description": "Premium version of Sweet Female voice with enhanced sweetness"
+          },
+          "clever_boy": {
+            "name": "Smart Boy",
+            "description": "Smart and clever little boy voice, innocent and cute, suitable for children's content"
+          },
+          "cute_boy": {
+            "name": "Cute Boy",
+            "description": "Cute and adorable little boy voice, pure and innocent, suitable for family content"
+          },
+          "lovely_girl": {
+            "name": "Lovely Girl",
+            "description": "Adorable little girl voice, soft and cute, suitable for warm stories"
+          },
+          "cartoon_pig": {
+            "name": "Cartoon Pig",
+            "description": "Cartoon character Pig voice, lively and interesting, suitable for animation content"
+          },
+          "bingjiao_didi": {
+            "name": "Yandere Brother",
+            "description": "Yandere little brother character voice, unique personality, suitable for role-playing"
+          },
+          "junlang_nanyou": {
+            "name": "Handsome Boyfriend",
+            "description": "Handsome and charming boyfriend voice, gentle and caring, suitable for emotional content"
+          },
+          "chunzhen_xuedi": {
+            "name": "Innocent Junior",
+            "description": "Pure and lovely junior voice, youthful and sunny, suitable for campus themes"
+          },
+          "lengdan_xiongzhang": {
+            "name": "Cold Senior",
+            "description": "Cold and aloof senior voice, mysterious charm, suitable for urban themes"
+          },
+          "badao_shaoye": {
+            "name": "Domineering Young Master",
+            "description": "Domineering CEO-style young master voice, strong charm, suitable for romance content"
+          },
+          "tianxin_xiaoling": {
+            "name": "Sweet Xiaoling",
+            "description": "Sweet and lovely Xiaoling voice, gentle and sweet, suitable for romantic content"
+          },
+          "qiaopi_mengmei": {
+            "name": "Playful Cute Girl",
+            "description": "Playful and cute girl voice, lively and spirited, suitable for light content"
+          },
+          "wumei_yujie": {
+            "name": "Charming Lady",
+            "description": "Charming and alluring lady voice, sexy charm, suitable for mature content"
+          },
+          "diadia_xuemei": {
+            "name": "Coquettish Junior Girl",
+            "description": "Coquettish junior girl voice, sweet and cute, suitable for sweet content"
+          },
+          "danya_xuejie": {
+            "name": "Elegant Senior Girl",
+            "description": "Elegant and intellectual senior girl voice, refined and graceful, suitable for literary content"
+          }
+        }
+      }
+    }
+  }
+}

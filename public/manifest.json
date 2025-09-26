@@ -1,0 +1,81 @@
+{
+  "name": "ITSAI Agent - 专业AI智能体服务平台",
+  "short_name": "ITSAI Agent",
+  "description": "ITSAI Agent提供专业的AI智能体服务，涵盖播客制作、配音生成、视频创作等多个场景。开箱即用，专业高效，让AI为您的创作赋能。",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "scope": "/",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "categories": ["productivity", "business", "utilities"],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/logo.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "ITSAI Agent 主界面"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "AI播客智能体",
+      "short_name": "播客",
+      "description": "快速创建AI播客内容",
+      "url": "/zh?agent=podcast",
+      "icons": [
+        {
+          "src": "/favicon.ico",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "AI配音智能体",
+      "short_name": "配音",
+      "description": "智能语音合成服务",
+      "url": "/zh?agent=voice",
+      "icons": [
+        {
+          "src": "/favicon.ico",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "AI视频智能体",
+      "short_name": "视频",
+      "description": "自动化视频制作服务",
+      "url": "/zh?agent=video",
+      "icons": [
+        {
+          "src": "/favicon.ico",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+User-agent: *
+Allow: /
+
+# 允许所有搜索引擎访问
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# 禁止访问的路径
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /profile/
+Disallow: /auth/
+Disallow: /unauthorized/
+
+# 站点地图
+Sitemap: https://itsaiagent.com/sitemap.xml
+Sitemap: https://itsaiagent.com/sitemap-zh.xml
+Sitemap: https://itsaiagent.com/sitemap-en.xml
+
+# 爬取延迟（毫秒）
+Crawl-delay: 1

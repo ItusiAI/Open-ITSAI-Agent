@@ -1,0 +1,30 @@
+CREATE TABLE "stripePayments" (
+	"id" text PRIMARY KEY NOT NULL,
+	"userId" text NOT NULL,
+	"stripeCustomerId" text NOT NULL,
+	"paymentIntentId" text,
+	"checkoutSessionId" text,
+	"subscriptionId" text,
+	"invoiceId" text,
+	"paymentStatus" text NOT NULL,
+	"paymentType" text NOT NULL,
+	"amount" integer NOT NULL,
+	"currency" text DEFAULT 'usd' NOT NULL,
+	"productName" text,
+	"productDescription" text,
+	"priceId" text,
+	"pointsAmount" integer,
+	"pointsType" text,
+	"subscriptionPlan" text,
+	"subscriptionPeriodStart" timestamp,
+	"subscriptionPeriodEnd" timestamp,
+	"refundAmount" integer,
+	"refundReason" text,
+	"refundedAt" timestamp,
+	"metadata" text,
+	"webhookEventId" text,
+	"createdAt" timestamp DEFAULT now(),
+	"updatedAt" timestamp DEFAULT now()
+);
+--> statement-breakpoint
+ALTER TABLE "stripePayments" ADD CONSTRAINT "stripePayments_userId_users_id_fk" FOREIGN KEY ("userId") REFERENCES "public"."users"("id") ON DELETE cascade ON UPDATE no action;
