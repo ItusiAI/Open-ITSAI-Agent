@@ -1,24 +1,12 @@
 # Open-ITSAI-Agent
 
-欢迎使用 Open-ITSAI-Agent，这是一个功能强大的开源 AI 智能体工作台，基于 Next.js 构建，提供多种 AI 模型集成、音频处理、用户认证和支付系统等功能。
+欢迎使用 Open-ITSAI-Agent，这是一个功能强大的开源 AI 声音类智能体，基于 Next.js 构建，提供多种 AI 模型集成、音频处理、用户认证和支付系统等功能。
 
 ## ✨ 主要功能
 
 ### 🤖 AI 智能体工作台
 * **音频总结智能体**：支持中文版和全球版，可处理多种语言的音频文件
-* **声音克隆智能体**：即将推出
-* **AI 播客智能体**：即将推出
-
-### 🌐 多 LLM 支持
-* **Gemini**：用于全球版音频总结
-* **DeepSeek**：用于中文版音频总结
-* **Qwen (阿里云通义千问)**
-* **Minimax**
-
-### 🗣️ 音频处理功能
-* **中文版**：基于腾讯云 ASR + DeepSeek 推理，支持中文方言识别
-* **全球版**：基于 OpenAI Whisper + Google Gemini，支持 100+ 种语言
-* **音频上传**：支持文件上传和音频链接处理
+* **AI 播客智能体**：支持中文版AI播客生成
 
 ### 🔒 用户系统
 * **认证系统**：支持 OAuth 登录（如 Google、GitHub）
@@ -46,10 +34,6 @@
 * **存储**：[Cloudflare R2](https://www.cloudflare.com/products/r2/)
 
 ## 🚀 快速开始
-
-### 环境要求
-* [Node.js](https://nodejs.org/) (v18.x 或更高版本)
-* [pnpm](https://pnpm.io/)
 
 ## 📚 文档
 详细文档请查看 docs/ 目录：
